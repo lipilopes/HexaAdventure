@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HistoryDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <History>
+    <History>
+      <_fase>1</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>true</_startFase>
+      <_chat>Aonde eu vim parar,
+Quem era aquele robo loko?
+      </_chat>
+    </History>
+    
+    <History>
+      <_fase>1</_fase>
+      <_mobID>5</_mobID>
+      <_left>false</_left>
+      <_startFase>true</_startFase>
+      <_chat>Impossivel!!!
+Ninguem nunca conseguiu passar pelas defesas do Cyber!!!</_chat>
+    </History>
+    
+    <History>
+      <_fase>1</_fase>
+      <_mobID>5</_mobID>
+      <_left>true</_left>
+      <_startFase>true</_startFase>
+      <_chat>Levem o Cyber para a sala de melhoria!!!</_chat>
+    </History>
+    
+      <History>
+      <_fase>1</_fase>
+      <_mobID>3</_mobID>
+      <_left>false</_left>
+      <_startFase>true</_startFase>
+      <_chat>Sim Chefe!!!</_chat>
+    </History>
+    
+      <History>
+      <_fase>1</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>true</_startFase>
+      <_chat>????</_chat>
+    </History>
+    
+    <?End_Game?>
+    
+     <History>
+      <_fase>1</_fase>
+      <_mobID>5</_mobID>
+      <_left>false</_left>
+      <_startFase>false</_startFase>
+      <_chat>Nós ainda não acabamos!!!</_chat>
+    </History>
+    
+    <History>
+      <_fase>1</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>false</_startFase>
+      <_chat>Que Carinha mais Chato!!!
+Flws Vlws!!!</_chat>
+    </History>
+  </History>
+</HistoryDatabase>

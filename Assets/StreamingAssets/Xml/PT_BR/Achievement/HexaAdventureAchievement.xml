@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AchievementDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Achievement>
+
+    <AchievementXml>
+      <_nameX>HexAdventure™</_nameX>
+      <_ID>0</_ID>
+      <_description>Conquiste todos os trofeis de HexaAdventure:
+[b]O  resgate da honra[/b].</_description>
+      <_type>Platina</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>Preparado?!</_nameX>
+      <_ID>1</_ID>
+      <_description>Complete o Tutorial.</_description>
+      <_type>Bronze</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>O Inicio do Chaos</_nameX>
+      <_ID>2</_ID>
+      <_description>Complete a Fase 5.
+[color=green]Melhora Atributo!!![/color]</_description>
+      <_type>Bronze</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>O Novo Inicio do Chaos</_nameX>
+      <_ID>3</_ID>
+      <_description>Complete a Fase 8.
+[color=green]Melhora Atributo!!![/color]
+      </_description>
+      <_type>Bronze</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>Hamburguer no [b]ZOY[/b]</_nameX>
+      <_ID>4</_ID>
+      <_description>Derrote o ZOY.
+[color=green]Melhora Atributo!!![/color]</_description>
+      <_type>Prata</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>Viking Honor</_nameX>
+      <_ID>5</_ID>
+      <_description>Derrote o Viking Honor.</_description>
+      <a>[b][color=green]Desbloqueia Novo Modo!!![/color][/b]</a>
+      <_type>Ouro</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>Imortal</_nameX>
+      <_ID>6</_ID>
+      <_description>Recupere X% de Hp.</_description>
+      <_type>Prata</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>Ta pegando fogo Bixoo!!!</_nameX>
+      <_ID>7</_ID>
+      <_description>Fique com o Dbuff Fire/Burn X% vezes.</_description>
+      <a>[b][color=green]Desbloqueia Novo Mob!!![/color][/b]</a>
+      <_type>Bronze</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>Andarilho</_nameX>
+      <_ID>8</_ID>
+      <_description>Ande X% vezes.</_description>
+      <_type>Prata</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>Saco de Pancada</_nameX>
+      <_ID>9</_ID>
+      <_description>Receba um total de X%  de dano.</_description>
+      <_type>Prata</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>Nem parece mas, ja jogou por 1 hora</_nameX>
+      <_ID>10</_ID>
+      <_description>Joguei por X%  minutos.</_description>
+      <_type>Bronze</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>Nem parece mas, ja jogou por 3 horas</_nameX>
+      <_ID>11</_ID>
+      <_description>Joguei por X%  minutos.</_description>
+      <_type>Prata</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>O Pode do Protagonismo</_nameX>
+      <_ID>12</_ID>
+      <_description>Cause X% ou mais de Dano em qualquer mob.</_description>
+      <_type>Prata</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>Eeeestatuaaaa a!!!</_nameX>
+      <_ID>13</_ID>
+      <_description>Fique com o Dbuff Petrificar X% vezes.</_description>
+      <_type>Bronze</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>Carrasco</_nameX>
+      <_ID>14</_ID>
+      <_description>Derrote X% inimigos.</_description>
+      <_type>Prata</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>Like A Boss</_nameX>
+      <_ID>15</_ID>
+      <_description>Derrote X% inimigos.</_description>
+      <_type>Ouro</_type>
+      <_dlc>O Resgate da Honra</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_nameX>CRITando na Cagada</_nameX>
+      <_ID>16</_ID>
+      <_description>Faça X% [color=magenta]Golpes Criticos[/color].</_description>
+      <a>[b][color=green]Desbloqueia Novo Mob!!![/color][/b]</a>
+      <_type>Prata</_type>
+      <_dlc>Missões</_dlc>
+    </AchievementXml>
+  </Achievement>
+</AchievementDatabase>

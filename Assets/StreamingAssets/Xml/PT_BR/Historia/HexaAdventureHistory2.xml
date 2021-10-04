@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HistoryDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <History>
+    <History>
+      <_fase>2</_fase>
+      <_mobID>8</_mobID>
+      <_left>false</_left>
+      <_startFase>true</_startFase>
+      <_chat>Não vou deixar você conseguir chegar até ele!!!</_chat>
+    </History>
+
+    <History>
+      <_fase>2</_fase>
+      <_mobID>8</_mobID>
+      <_left>true</_left>
+      <_startFase>true</_startFase>
+      <_chat>Cade o resto dos Guardas!!!</_chat>
+    </History>
+
+    <History>
+      <_fase>2</_fase>
+      <_mobID>6</_mobID>
+      <_left>false</_left>
+      <_startFase>true</_startFase>
+      <_chat>Chegamos!!!!</_chat>
+    </History>
+
+    <History>
+      <_fase>2</_fase>
+      <_mobID>7</_mobID>
+      <_left>true</_left>
+      <_startFase>true</_startFase>
+      <_chat>Já brotei aqui tem tempo!!!
+Atacarrr!!!</_chat>
+    </History>
+
+    <History>
+      <_fase>2</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>true</_startFase>
+      <_chat>Cade o botão de skip???
+Historinha chata...</_chat>
+    </History>
+    
+    
+    
+    <History>
+      <_fase>2</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>false</_startFase>
+      <_chat>Anda me diz!!!
+Quem vocês acham que eu vou salva??</_chat>
+    </History>
+    
+    <History>
+      <_fase>2</_fase>
+      <_mobID>6</_mobID>
+      <_left>false</_left>
+      <_startFase>false</_startFase>
+      <_chat>Quando você desistiu de jogar, nós conseguimos derrotar o Viking!!!
+E agora esse jogo é nosso!!!</_chat>
+    </History>
+    
+        <History>
+      <_fase>2</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>false</_startFase>
+      <_chat>Não vai ser por Muito tempo!!!!</_chat>
+    </History>
+  </History>
+</HistoryDatabase>

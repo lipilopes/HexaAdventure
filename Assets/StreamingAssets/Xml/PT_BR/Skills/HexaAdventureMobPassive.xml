@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PassiveDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Passive>
+    <PassiveXml><!--0 zé-->
+      <_nameX>Poder do Protagonista</_nameX>
+      <_description>$User recupera $P0 de hp por $P1 turno(s),quando seu hp estiver abaixo de $P2.</_description>
+    </PassiveXml>
+
+    <PassiveXml><!--1 Cyber-->
+      <_nameX>Armadura Espelhada</_nameX>
+      <_description>Devolve $P1 do valor do dano levado em forma de $P0.
+Caso seja [color=yellow]Dano Real[/color] devolve $P3 do valor levado em forma de $P2.</_description>
+    </PassiveXml>
+
+    <PassiveXml><!--2 Viking-->
+      <_nameX>Vantagem Runica</_nameX>
+      <_description>$P0 de Chance de $P2 em sua Skill Antes de usa-la.$P3
+$P1 Turno(s).</_description>
+    </PassiveXml>
+
+    <PassiveXml><!--3 Planta Carnivora-->
+      <_nameX>Ataque Vampiresco</_nameX>
+      <_description>Ganha $P1 do valor do dano causado em forma de $P0.</_description>
+    </PassiveXml>
+
+    <PassiveXml><!--4 Zumby-->
+      <_nameX>Z Virus</_nameX>
+      <_description>Ao matar um inimigo,surge um $P0 aliado em seu lugar.
+[color=blue]Limite de $P0 no mapa: $P4
+$P1 turnos.
+Atk: $P2.
+Hp: $P3[/color]</_description>
+    </PassiveXml>
+
+    <PassiveXml><!--5  Ultimo Suspiro - 3 - Thanatos-->
+      <_nameX>ZONA MORTAL</_nameX>
+      <_description>Surge um $P0 aliado(a) todo vez em que da dano.
+Maximo: $P4.
+Duração: $P1 turno(s).
+Atk: $P2.
+Hp: $P3.</_description>
+    </PassiveXml>
+    
+    <PassiveXml><!--6  Ultimo Suspiro - 3 - Thanatos-->
+      <_nameX></_nameX>
+      <_description>[color=blue]Caso o alvo morra em ate $TFS turno(s), renascera como um aliado,por $DES turno(s).[/color].</_description>
+    </PassiveXml>
+
+    <PassiveXml><!--7 -->
+      <_nameX>Muralha</_nameX>
+      <_description>Absorve $P1 do dano de Habilidades Atiraveis.</_description>
+    </PassiveXml>
+
+
+    <PassiveXml><!--8 Mago-->
+      <_nameX>Conjuração Mágica</_nameX>
+      <_description>Após $P4 $P5,Tem $P0 de Chance de Ativar $P2.</_description>
+    </PassiveXml>
+
+    <PassiveXml><!--9 Cavaleiro-->
+      <_nameX>Armadura Pesada</_nameX>
+      <_description>$Start0 Ganha $Min0 de $Buff0 $Max0 no inicio do turno(s).
+Apos $Start1 ganha $Min1 de $Buff1 por $Max1 turno(s).</_description>
+    </PassiveXml>
+
+      <PassiveXml><!--10 Caveira-->
+      <_nameX>Calcio Reforçado</_nameX>
+      <_description>Após $P4 $P5, Ativa $P2.</_description>
+    </PassiveXml>
+
+    <PassiveXml><!--11 Arqueiro-->
+      <_nameX>Ataque Melhorado</_nameX>
+      <_description>Após $P5 ganha $P6 de chance Critico.
+Após $P7 reseta.</_description>
+    </PassiveXml>
+    
+      <PassiveXml><!--12 Macaco Rei-->
+      <_nameX>Reflexo</_nameX>
+      <_description>Após $P5 ganha $P6 de Esquiva.
+Após $P7 reseta e $P2.</_description>
+    </PassiveXml>
+    
+    <PassiveXml><!--13 Planta Carnivora-->
+      <_nameX>Fotossíntese</_nameX>
+      <_description>$User, faz fotossíntese e recupera $P0 de hp apos a Recarga.</_description>
+    </PassiveXml>
+    
+  <PassiveXml><!--14 Gnobus-->
+      <_nameX>Espada Mágica</_nameX>
+    <_description>Antes de Golpear o Inimigo com Escudo, Absorve $P4 do escudo,$User fica com o escudo por $P8 tuno(s), caso ainda tenha o escudo fica com $P6% (Minimo $P7) e devolve o resto.
+Caso Inimigo não tenha escudo Ganha $Buff0 em +$Min0 por $Max0 turno(s).</_description>
+    </PassiveXml>
+    
+    <PassiveXml><!--15 -->
+      <_nameX></_nameX>
+      <_description>Antes Golpear Inimigos com Escudo Absorve $P4 do escudo,$User fica com $P6 (Min $P7) do escudo absorvido.
+Caso Inimigo não tenha escudo Ganha $P4.</_description>
+    </PassiveXml>
+  </Passive>
+</PassiveDatabase>

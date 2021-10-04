@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HistoryDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <?Ingles?>  
+  
+  <History>
+    <History>
+      <_fase>0</_fase>
+      <_mobID>25</_mobID>
+      <_left>false</_left>
+      <_startFase>true</_startFase>
+      <_chat>Outsider...</_chat>
+    </History>
+
+    <History>
+      <_fase>0</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>true</_startFase>
+      <_chat>Wow!!!
+What place is this??!!
+      </_chat>
+    </History>
+
+    <History>
+      <_fase>0</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>true</_startFase>
+      <_chat>What is that?!!</_chat>
+    </History>
+
+    <History>
+      <_fase>0</_fase>
+      <_mobID>25</_mobID>
+      <_left>false</_left>
+      <_startFase>true</_startFase>
+      <_chat>Outsider...
+Outsider...
+Outsider...
+      </_chat>
+    </History>
+
+    <History>
+      <_fase>0</_fase>
+      <_mobID>25</_mobID>
+      <_left>false</_left>
+      <_startFase>true</_startFase>
+      <_chat>Outsider has be [b]D.E.L.E.T.E.D!!!![/b]</_chat>
+    </History>
+
+    <?End_Game?>
+    <History>
+      <_fase>0</_fase>
+      <_mobID>25</_mobID>
+      <_left>false</_left>
+      <_startFase>false</_startFase>
+      <_chat>You'll never be able to save it...</_chat>
+    </History>
+
+    <History>
+      <_fase>0</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>false</_startFase>
+      <_chat>Good Grief!!!,
+What was this, What place is this?
+      </_chat>
+    </History>
+  </History>
+</HistoryDatabase>

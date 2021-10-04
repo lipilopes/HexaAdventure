@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 34f14e2c1de0cf143a0c1926e00e21e0
+timeCreated: 1557787631
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DK Frozen Memory
+  fontNames:
+  - DK Frozen Memory
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b60f0f84f30b485439e0e3318f26227d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

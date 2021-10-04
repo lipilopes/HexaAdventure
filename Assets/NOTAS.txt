@@ -1,0 +1,175 @@
+PLAYER NAO SEGURA MAIS DE 3 MOB'S
+Rec Hp [Rec 75 do hp do player / 25 dos mob's] quando player puxa o item reduz os cooldow's , e tira os dbuff
+
+
+//Alterações Funcionais
+BUG = Erro
+NEW = Novo
+ARM = arrumou/alterou
+REV = Review/visar
+
+Desbloquear Modo Batalha [Fazer a Conquista 'Viking Honor' id=5]
+
+Desbloquear Mobs de 1 a 25 [Fazer a Conquista 'HexaAdventure™' id=0]
+
+Desbloquear Mob 26 [Fazer a Conquista 'Ta pegando fogo Bixoo!!!' id=?]
+
+Desbloquear Mob 27 [Fazer a Conquista 'CRITando na Cagada' id=?]
+
+//Update Março/2018
+[NEW]
+	1: Animação HUD.[Conquista, Record_SelectLevel, Informação , Informação_Conquista, Conquista, Target]
+	2: Itween.
+	3: Camera Shake.
+	4: DropDown(Select Player). ]	
+	5: SkillAttack(Maxhit).     [Pode dar mais de um hit]
+	6: Skill(Que puxa).         [Player pode [Player pode jogar com todos menos "Xacon" selecionar o destino final do target]
+	7: Save(Fases/Extra Player).[Separado Por playerID]
+	8: AchievementPanel(Dlc).   [Conquistas serao separadas por dlc automaticamente]
+	9: Collider Skills.         [Collider das Skill ja se ajustam para o tamanho da skill]
+   10: Loading Bar.             [Ao trocar de scene e fazer loading dos saves...]
+   11: Defense Bar.             [Defense bar quando player ganha escudo]
+
+[ARM]
+    1: DetalSkill não aparece.	
+	2: Time(Player and NoPlayer).[Dano Separado em time]
+	3: Unicornio(Skill2).        [Player]
+	4: OtherPlayers().           [Habilidades que target/chao amigos estao bugadas (Cyber/Player/Caveira/Unicornio/Cavaleiro/Gnobus/Boss2)]
+	5: Arqueiro(Skill2).         [Tiro triplo so da 2 tiros]
+	6: Salve(Fase).              [Nao salva fase dos outros mobs]
+	7: Salve(Record).            [Nao salva record dos outros mobs]
+
+[BUG]
+	1: Macaco Rei(Transformação).[Nao usa fx da transformação]   
+
+[REV]
+	1: Dano em Area(Com base no time).[Alguns box colliders estao bem grandes]
+
+30/01/2018
+[NEW]
+	1: Camera foca no dono do turno;
+
+[NEW]
+	1: Achievement's;
+	2: Salva Tempo Record de cada Fase;
+
+//Update 03/08/17 
+[BUG]
+	1: Transforme.[Macaco Rei(Tem q desativar material transparente)]
+	
+[REV]
+	1: Effect's.           [Todos]
+    2: CoolDown Transforme.[Macaco Rei]
+	3: Macaco Rei clone do clone.(Mudar skill 3, pois ele nao pode usar)
+
+[NEW]
+    1: Bonus ao passar de fase(Dano ,vida ,walk ,Resistencias{all} ,Cooldown,Chance Critico)
+    2: Dificuldade.[player escolher a dificuldade].{dificuldade altera status dos mob's}
+	3: Effect's(Dead / Critical Hit);
+	4: Buff skill3 arqueiro.(Ao andar na chuva inimigo leva 40% do dano da skill)
+
+[ARM]
+    1: Sistema de Dano Critico Esta ativo.(all mob's)
+	2: Infos nao mostra mensagens repetidas.
+	3: Skill3(Macaco Rei) não é executada corretamente.(Clones não andam/atacam)
+	4: Skill2(Macaco Rei) não é executada corretamente.(Perde o nome das suas skill's)
+	5: Tooltip skill mob's(Medium / Hard);
+	6: Skill's Fixed bug(Muitos mob's / bug variados);
+	7: player podia andar apos entrar no portal.
+	8: Dano(Skill1).[Macaco Rei]
+	9: Transforme.[Macaco Rei(Tem q balancear dano)]
+
+//Update 'Dia do Pi'
+[BUG]
+    1: Transforme.[Macaco Rei(Tem q desativar material transparente)]
+
+[REV]
+    1: Effect's.[Todos]
+    2: CoolDown Transforme.[Macaco Rei]
+    3: Dano(Skill1).[Macaco Rei]
+
+[NEW]
+    1: Botões HUD(Click). [Agora tem som]
+	2: Novo Hexagon.      [Grass]
+	3: Novos Enviroment's.[Muitos]
+	4: Change Camera.     [Right Mouse Button]
+	5: Shader.            [All Models]
+	6: Effect(show Enemy).[Mostra inimigos no mapa]
+    7: Save/Load.         [Fases(Block,Complete,CompletePortal,CompleteKill),ZéProp's(Hp,Walk,Damage,Resistence(all)),Config(CameraType,MoveCamera,MouseSensibility)]
+
+[ARM]
+    1: HUD(InfoTooltip,TargetToolTip).[novo painel]
+
+
+
+//Update 28/05 [Part 2] 1 Build
+[BUG]
+    1: Transforme.[Macaco Rei(Tem q desativar material transparente)]
+
+[REV]
+    1: Effect's.               [Todos]
+    2: CoolDown Transforme.    [Macaco Rei]
+    3: Dano(Skill1).           [Macaco Rei]
+    4: Arvore's(Normal,Outono).[Apos entregar a build(segunda) remove-las da lista de obstáculos]
+
+[NEW]
+    1: Novos Hexagons.[Flor(1,2,3), Pedra,Terra,Ladrilho]
+    2:Obstaculo(*TEMPORÁRIO*).[Arvore Antiga(Normal , Outono)]
+
+[ARM]
+    1: Buff Defense.          [Defense não fazia o calculo correto]
+    2: HUD.                   [Avatar,Back Bar Attack]
+    3: Skill2(Player).        [Apos usar skill pra pegar item list com hex nao era apagada, gerando entao um bug na hora de puxar o mob inimigo  random pegava os hex entre  a posição  atual e a que estava quando pegou o item]
+    4: Canvas.                [Ancoras de todos os Canvas]
+    5: Otimização CheckInHere.[Portal / RecHp]
+
+//Update 26/05 [Part 1] 1 Build
+[BUG]
+    1: Transforme.[Macaco Rei(Tem q desativar material transparente)]
+
+[REV]
+    1: Effect's.               [Todos]
+    2: CoolDown Transforme.    [Macaco Rei]
+	3: Dano(Skill1).           [Macaco Rei]
+	4: Arvore's(Normal,Outono).[Apos entregar a build segunda remover arvores da lista de obstaculos]
+
+[NEW]
+    1: ADD audio no Prefab Correspondente.[Stun/Rec Hp/Petrify]
+	2: ADD effect no Portal.              [Apos player entrar no portal aparece o efeito de teleport]
+	3: ToolTip.                           [Mostra Inf do GameObject, caso passe o mouse em cima das skills do player mostra como hp ficara]
+	4: Novos Hexagons.                    [Flor, Pedra]
+	5: Audio Hexagons.                    [Ao andar no hex]
+	6: Modelos Environment.               [Varios]
+	7: HUD Atualizada.
+	8: Tooltip cenario.                   [Você pode Tooltipar Qualquer item para ver mais informações]
+	9: Menu(Scene).                       [Funcional]
+   10: Painel(Mensagem do sistema).       []
+   11: Botão de fechar.                   [Tooltip, Painel de Mensagem]
+   12: FadeIn Target Skill's.             [Ao colocar o mouse em cima da skill ele ira mostrar a area de dano da skill]
+
+[ARM]
+    1: Buff Defense.          [Defense nao fazia o calculo correto]
+	2: HUD.                   [Avatar,Back Bar Attack]
+    3: Skill2(Player).        [Apos usar skill pra pegar item list com hex nao era apagada, gerando entao um bug na hora de puxar o mob inimigo  random pegava os hex entre  a posição  atual e a que estava quando pegou o item]
+    4: Canvas.                [Ancoras de todos os Canvas]
+    5: Otimização CheckInHere.[Portal / RecHp]		
+
+//Update 07/05
+[NEW 07/05] 
+    1: Effect's.                 [Alguns até a Sereia, Mais inf check Effect.xlsx]
+    2: PopUp Damage.
+    3: FeedBack Turn.            [Luz aponta de quem e o turn e a cor simboliza(mob amigo{azul} ou nao{vermelho})]
+    4: Dbuff BLEED.              [Fusao do poison com fire]
+    5: BossI / BossII ADD(Model).[Fazer skill's(Apenas BossI) / Preencher Script's(apenas BossI)]
+    6: Model Effect's.           [Mouse, Gancho, Arrow, Lança]
+    7: FadeIn / FadeOn.          [Nos botoes de skill do player]
+    8: Effect Target.            [Quando o monstro estiver na sua area de attack ativa o efeito, quando esta mirado efeito gira]
+
+[ARM 07/05]
+    1: Dbuff Poison.                          [Tempo esta contando errado / bug caso click na casa fora do walk , levaria dano ]
+    2: Efeito Visual do Dbuff Stun, Petrify.  [Efeito Visual so acaba quando chega o turno do mob correspondente]
+    3: Tamanhos dos Mob's.                    [Cada Mob Tem seu tamanho]
+    4: Tamanho do Collider dos Mob's.         [Arrumado com um valor Padrao]
+    5: Mudança(New Models) nos Effect's skill.[Chuva de Flecha, Nice Shoot, Tiro Triplo / Lançar lança, Multiplas Lanças]
+    6: Respaw Rec Hp.                         [Contagem / Respaw agora esta mais preciso]
+    7: Habilidade Pull(De Todos).             [Agora Reconhece as casas em volta, para poder puxar os inimigos, Caso nao tenho ele fica no msm lugar]

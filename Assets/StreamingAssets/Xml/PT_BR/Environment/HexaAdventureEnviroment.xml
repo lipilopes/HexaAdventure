@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EnviromentDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Enviroment>
+    
+    <!--0-->  
+    <EnviromentXml>
+      <_name>Placa Normal</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Apenas uma placa apontando para lugar nenhum.</_description>
+      </_descriptions>
+    </EnviromentXml>
+    
+    <EnviromentXml>
+      <_name>Placa Caida</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Apenas uma Placa com defeito.</_description>
+        <_description>Apenas uma placa com defeito, apontando para lugar nenhum.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml>
+      <_name>Placa Destruída</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Apenas um Placa Caida.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml>
+      <_name>Portal</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Ao entrar neste Portal, você é teleportado para a próxima fase.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--Pedras 1-->
+      <_name>Pedras</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>São apenas pedras acinzentadas com grama.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <!--5-->    
+    <EnviromentXml><!--Pedras 1 (Sem grama)-->
+      <_name>Pedras</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>São apenas pedras acinzentadas.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--Pedras 2-->
+      <_name>Pedras</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Parecem pedras marinhas, são azuis e têm grama.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--Pedras 2 (Sem Grama)-->
+      <_name>Pedras</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Parece pedras marinhas, são azuis.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--Pedras 3-->
+      <_name>Pedra</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Parece um pedra do deserto, e esta tem algumas graminhas.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--Pedras 4-->
+      <_name>Pedras</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Uau! Isso parece uma obra de arte.</_description>
+      </_descriptions>
+    </EnviromentXml>
+    
+    <!--10-->
+    <EnviromentXml><!--Pedras 5-->
+      <_name>Pedras</_name>
+      <_extraInfo>9</_extraInfo>
+      <_descriptions>
+        <_description>Essas pedras parecem lapidadas, que bonito.</_description>
+      </_descriptions>
+    </EnviromentXml>   
+    
+    <EnviromentXml><!--Pedras 6-->
+      <_name>Pedras</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Pedras escuras, parecem até carvão.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--Arbusto-->
+      <_name>Arbusto</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Apenas um arbusto simples.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml>
+      <_name>Arbusto</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Uau! Este arbusto tem flores laranjadas.</_description>
+        <_description>Nossa! arbusto simples com flores laranjadas.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--Arbusto_Flor (Magenta)-->      
+      <_name>Arbusto</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Uau! Este arbusto tem flores rosas.</_description>
+        <_description>Uau! Parece o arbusto simples, só que esse tem flores rosas.</_description>
+      </_descriptions>
+    </EnviromentXml>
+    
+    
+    <!--15-->
+    <EnviromentXml><!--Arbusto_Flor (Purple)-->  
+      <_name>Arbusto</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Uau! Este arbusto tem flores roxas.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--Arbusto Seco-->  
+      <_name>Arbusto</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Apenas um arbusto simples e desidratado.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--ArbustoSeco_Flor (Laranja)-->  
+      <_name>Placa Normal</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Mas o quê!!!          
+Um arbusto desidratado com flores laranjadas.
+        </_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--ArbustoSeco_Flor (Seca)--> 
+      <_name>Arbusto</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Mas o quê!!!
+Um arbusto desidratado com flores desidratadas.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--Arvore Antiga (Normal)--> 
+      <_name>Árvore Antiga</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Nossa, olha o tamanho dela.
+Parece ser muito antiga...</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    
+    <!--20-->
+  <EnviromentXml><!--Arvore Antiga (Outono)--> 
+    <_name>Árvore Antiga</_name>
+    <_extraInfo></_extraInfo>
+    <_descriptions>
+      <_description>Lembro desta árvore de algum lugar...</_description>
+    </_descriptions>
+  </EnviromentXml>
+
+  <EnviromentXml><!--Tronco (Normal)--> 
+    <_name>Tronco</_name>
+    <_extraInfo></_extraInfo>
+    <_descriptions>
+      <_description>Que tronco bonito, ainda restam folhas nele.</_description>
+    </_descriptions>
+  </EnviromentXml>
+
+  <EnviromentXml><!--Tronco (Outono)--> 
+      <_name>Tronco</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Que tronco bonito, ainda restam folhas nele.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--Arvore-->
+      <_name>Árvore</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Esta árvore é pequena e bem verde.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--Arvore(Morta)-->
+      <_name>Árvore</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Esta árvore está seca, mas ainda é um obstáculo.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <!--25-->
+    <EnviromentXml><!--Arvore(Outono)-->
+      <_name>Árvore</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Esta árvore tem belas cores, muito bonita.</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--Pinheiro-->
+      <_name>Árvore</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Este pinheiro é enorme, uau!</_description>
+      </_descriptions>
+    </EnviromentXml>
+    
+    <!--27-->
+    <EnviromentXml><!-- -->
+      <_name>Cura</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>[b]N%:
+Recupera 75% da vida atual.[/b]
+Inimigos:
+Recupera 25% da vida atual.
+[b]Cura Qualquer Dbuff[/b]</_description>
+        <_description></_description>
+      </_descriptions>
+    </EnviromentXml>
+    
+    <EnviromentXml><!--28-->
+      <_name>[color=red] [b]Fogo do Inferno[/b][/color]
+      </_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Todo final de turno Fogo da $D de dano em inimigos sobe o Fogo.
+Inimigos que andam sobe o Fogo recebem
+[color=red][b]$W[/b][/color] de dano e 
+[b][color=red]$WBuff0 por $WDur0 turno(s).[/color][/b]
+[b]Duração: $T turno(s)[/b]
+        </_description>
+      </_descriptions>
+    </EnviromentXml>
+    
+    <EnviromentXml><!--29-->
+      <_name>[color=red][b]TEMPESTADE[/b][/color]</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>[b]Duração: $T turno(s)[/b]</_description>
+      </_descriptions>
+    </EnviromentXml>
+    
+    <!--30-->
+    <EnviromentXml><!--30-->
+      <_name>[color=red][b]Fogo[/b][/color]</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Todo final de turno Fogo da $D  de dano em inimigos sobe o Fogo.
+Inimigos que andam sobe o Fogo recebem 
+$W  de dano.
+Alvos que levam dano do Fogo ganham 
+[b][color=red]$Buff0 por $Dur0 turno(s).[/color][/b]
+[b]Duração: $T turno(s)[/b]</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--31-->
+      <_name>[color=red][b]Chuva de Flecha[/b][/color]</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Da [color=red][b]$W[/b][/color] de dano em inimigos que andam sobe a chuva.
+[color=blue]Em dano por turno tem $CH de chance da $MH.[/color]
+[b]Duração: $T turno(s)[/b]</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--32-->
+      <_name>[color=red][b]Chuva Cinematografica[/b][/color]</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description>Da [color=red][b]$W[/b][/color] de dano em inimigos que andam sobe a chuva.
+[b]Duração: $T turno(s)[/b]</_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    
+    <EnviromentXml><!--33-->
+      <_name>[color=red][b]Zona Mortal[/b][/color]</_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description></_description>
+      </_descriptions>
+    </EnviromentXml>
+
+<EnviromentXml><!--34-->
+      <_name></_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description></_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--35-->
+      <_name></_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description></_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    
+    <EnviromentXml><!--36-->
+      <!-- -->
+      <_name></_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description></_description>
+      </_descriptions>
+    </EnviromentXml>
+    
+    <EnviromentXml><!--37-->
+      <_name></_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description></_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--38-->
+      <_name></_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description></_description>
+      </_descriptions>
+    </EnviromentXml>
+
+    <EnviromentXml><!--39-->
+      <_name></_name>
+      <_extraInfo></_extraInfo>
+      <_descriptions>
+        <_description></_description>
+      </_descriptions>
+    </EnviromentXml>
+    
+  </Enviroment>
+</EnviromentDatabase>

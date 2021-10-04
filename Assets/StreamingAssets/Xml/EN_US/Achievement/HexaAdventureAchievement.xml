@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AchievementDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Achievement>
+    <AchievementXml>
+      <_ID>0</_ID>
+      <_nameX>HexAdventure™</_nameX>
+      <_description>Conquer all trofies of HexaAdventure:
+[b]The Honor Rescue[/b].</_description>
+      <_type>Platinum</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>1</_ID>
+      <_nameX>Ready?!</_nameX>
+      <_description>Complete The Tutorial.</_description>
+      <_type>Bronze</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>2</_ID>
+      <_nameX>The Begining of Chaos</_nameX>
+      <_description>Complete Level 5.
+[color=green]Upgrade Status!!![/color]</_description>
+      <_type>Bronze</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>3</_ID>
+      <_nameX>Begining of a New Chaos</_nameX>
+      <_description>Complete Level 8.
+[color=green]Upgrade Status!!![/color]</_description>
+      <_type>Bronze</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>4</_ID>
+      <_nameX>Hambuguer on DoublEye</_nameX>
+      <_description>Defeat DoublEye.
+[color=green]Upgrade Status!!![/color]</_description>
+      <_type>Silver</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>5</_ID>
+      <_nameX>Viking Honor</_nameX>
+      <_description>Defeat Viking Honor.</_description>
+      <a>[color=green]Unlock New Mode!!![/color]</a>
+      <_type>Gold</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>6</_ID>
+      <_nameX>Imortal</_nameX>
+      <_description>Heal X% Hp.</_description>
+      <_type>Silver</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>7</_ID>
+      <_nameX>It's on fire, Dude!</_nameX>
+      <_description>Receive the Burn Debuff X% Times.</_description>
+      <a>[b][color=green]Unlock New Mob!!![/color][/b]</a>
+      <_type>Bronze</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>8</_ID>
+      <_nameX>Traveller</_nameX>
+      <_description>Walk  X% hexagons.</_description>
+      <_type>Silver</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>9</_ID>
+      <_nameX>Punching Bag</_nameX>
+      <_description>Take X% points of damage</_description>
+      <_type>Silver</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>10</_ID>
+      <_nameX>It doesn't look like, but played for an hour already!</_nameX>
+      <_description>Play the game for X% minutes.</_description>
+      <_type>Bronze</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>11</_ID>
+      <_nameX>It doesn't look like, but played for three hours already!</_nameX>
+      <_description>Play the game for X% minutes.</_description>
+      <_type>Silver</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>12</_ID>
+      <_nameX>The Power of Protagonist</_nameX>
+      <_description>Deal X% points of damage to any enemy.</_description>
+      <_type>Silver</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>13</_ID>
+      <_nameX>Freezed!</_nameX>
+      <_description>Receive the Petrify Debuff for X% turns.</_description>
+      <_type>Bronze</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>14</_ID>
+      <_nameX>Executioner</_nameX>
+      <_description>Defeat X% Enemies</_description>
+      <_type>Silver</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>15</_ID>
+      <_nameX>Like A Boss</_nameX>
+      <_description>Defeat X% Enemies</_description>
+      <_type>Gold</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>16</_ID>
+      <_nameX>Soothing Smoking Criticals Strikes</_nameX>
+      <_description>Make X% [color=magenta]Critical Strikes[/color].</_description>
+      <a>[b][color=green]Unlock New Mob!!![/color][/b]</a>
+      <_type>Silver</_type>
+      <_dlc>Missions</_dlc>
+    </AchievementXml>
+
+    <AchievementXml>
+      <_ID>17</_ID>
+      <_nameX></_nameX>
+      <_description></_description>
+      <_type>Bronze</_type>
+      <_dlc>The Honor Rescue</_dlc>
+    </AchievementXml>
+  </Achievement>
+</AchievementDatabase>

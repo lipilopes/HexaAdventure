@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HistoryDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <History>
+    <History>
+      <_fase>0</_fase>
+      <_mobID>25</_mobID>
+      <_left>false</_left>
+      <_startFase>true</_startFase>
+      <_chat>Intruso...</_chat>
+    </History>
+
+    <History>
+      <_fase>0</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>true</_startFase>
+      <_chat>Nofa!!!
+Que Lugar é esse??!!
+      </_chat>
+    </History>
+
+    <History>
+      <_fase>0</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>true</_startFase>
+      <_chat>O que é Aquilo?!!</_chat>
+    </History>
+
+    <History>
+      <_fase>0</_fase>
+      <_mobID>25</_mobID>
+      <_left>false</_left>
+      <_startFase>true</_startFase>
+      <_chat>Intruso...
+Intruso...
+Intruso...
+      </_chat>
+    </History>
+
+    <History>
+      <_fase>0</_fase>
+      <_mobID>25</_mobID>
+      <_left>false</_left>
+      <_startFase>true</_startFase>
+      <_chat>Intruso será [b]E.L.I.M.I.N.A.D.O!!!![/b]</_chat>
+    </History>
+
+    <?End_Game?>
+    <History>
+      <_fase>0</_fase>
+      <_mobID>25</_mobID>
+      <_left>false</_left>
+      <_startFase>false</_startFase>
+      <_chat>Você nunca conseguira salva-loooo...</_chat>
+    </History>
+
+    <History>
+      <_fase>0</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>false</_startFase>
+      <_chat>Credo!!!,
+O que foi isso,Que lugar é esse?</_chat>
+    </History>
+
+    <History>
+      <_fase>0</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>false</_startFase>
+      <_chat>Salvar Quem??</_chat>
+    </History>
+
+    <History>
+      <_fase>0</_fase>
+      <_mobID>25</_mobID>
+      <_left>false</_left>
+      <_startFase>false</_startFase>
+      <_chat>O ...
+~Puff~</_chat>
+    </History>
+
+    <History>
+      <_fase>0</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>false</_startFase>
+      <_chat>Eeee morreu!!!</_chat>
+    </History>
+  </History>
+</HistoryDatabase>

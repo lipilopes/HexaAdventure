@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HistoryDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <History>
+    <History>
+      <_fase>3</_fase>
+      <_mobID>6</_mobID>
+      <_left>false</_left>
+      <_startFase>true</_startFase>
+      <_chat>Como esse Cara chegou aqui??!!</_chat>
+    </History>
+
+    <History>
+      <_fase>3</_fase>
+      <_mobID>8</_mobID>
+      <_left>false</_left>
+      <_startFase>true</_startFase>
+      <_chat>Sabia!!!
+Aqueles inuteis não conseguem quebrar uma placa!!!</_chat>
+    </History>
+
+    <History>
+      <_fase>3</_fase>
+      <_mobID>7</_mobID>
+      <_left>false</_left>
+      <_startFase>true</_startFase>
+      <_chat>Chamem reforços!!!!</_chat>
+    </History>
+
+    <History>
+      <_fase>3</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>true</_startFase>
+      <_chat>...</_chat>
+    </History>
+
+
+    <History>
+      <_fase>3</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>false</_startFase>
+      <_chat>Espero que fiquei dificil!!!
+Cansei desses monstros fracos!!!</_chat>
+    </History>
+  </History>
+</HistoryDatabase>

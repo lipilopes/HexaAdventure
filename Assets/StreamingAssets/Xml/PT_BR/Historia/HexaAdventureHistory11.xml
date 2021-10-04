@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HistoryDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <History>
+    <History>
+      <_fase>11</_fase>
+      <_mobID>0</_mobID>
+      <_left>true</_left>
+      <_startFase>true</_startFase>
+      <_mobName>Test</_mobName>
+      <_chat>1...2...3... Test</_chat>
+    </History>
+  </History>
+</HistoryDatabase>

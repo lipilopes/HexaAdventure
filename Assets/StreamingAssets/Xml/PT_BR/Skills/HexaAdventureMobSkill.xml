@@ -1,0 +1,662 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SkillDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Skill>
+    <!--Zé-->
+    <SkillXml><!--1-->
+      <_ID>1</_ID>
+      <_nameX>Lançar hamburguer</_nameX>
+      <_description>Lança um hamburguer no inimigo.
+[color=red]$%0 de chance de $Buff0 do alvo em $Min0 $Ac0 por $Max0 turno(s)[/color].</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>2</_ID>
+      <_nameX>Lançar Mouse [b]GAMER[/b]</_nameX>
+      <_description>[b]Puxa o alvo[/b] para a casa mais próxima,
+[color=red]$%0 de chance de $Buff0 por $Dur0 turno(s)[/color].</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>3</_ID>
+      <_nameX>Metralhadora de fritas</_nameX>
+      <_description>Ataca [b]todos os inimigos[/b] que estão na área da skill.[color=red]$%0 de chance de $Buff0 $Min0 do alvo por $Max0 turno(s)[/color],[color=blue]Apos atacar x$P2 dano muda $P1%[/color],[color=blue]Alvo Unico: Dano de $P3.[/color]</_description>
+    </SkillXml>
+
+    <!--Zé Skin (.1) / Viking-->
+    <SkillXml>
+      <!--1-->
+      <_ID>1.1</_ID>
+      <_nameX>Lançar Machado</_nameX>
+      <_description>Lança um Machado no inimigo.
+[color=red]$Buff0 do alvo em $Min0 $Ac0 por $Max0 turno(s)[/color].</_description>
+    </SkillXml>
+    <SkillXml>
+      <!--2-->
+      <_ID>2.1</_ID>
+      <_nameX>Lançar Gancho [b]Viking[/b]</_nameX>
+      <_description>[b]Puxa o alvo[/b] para a casa mais próxima,
+[color=red]$%0 de chance de $Buff0 por $Dur0 turno(s)[/color].</_description>
+    </SkillXml>
+    <SkillXml>
+      <!--3-->
+      <_ID>3.1</_ID>
+      <_nameX>Metralhadora de Machados</_nameX>
+      <_description>Ataca [b]todos os inimigos[/b] que estão na área da skill.[color=red]$%0 de chance de $Buff0 $Min0 do alvo por $Max0 turno(s)[/color],[color=blue]Apos atacar x$P2 dano muda $P1%[/color],[color=blue]Alvo Unico: Dano de $P3.[/color]</_description>
+    </SkillXml>
+    
+    <!--Slime-->
+    <SkillXml><!--1-->
+      <_ID>4</_ID>
+      <_nameX>Investida</_nameX>
+      <_description>$User são mais rígidos que você pensa.
+[color=red]$%0 de chance de ativar $Buff0 no alvo por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>5</_ID>
+      <_nameX>[b]BOLA DE SLIME![/b]</_nameX>
+      <_description>Cria uma esfera de veneno e a lança contra seu alvo. [color=red]$%0 de chance de $Buff0 por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>6</_ID>
+      <_nameX>Meleca de Slime</_nameX>
+      <_description>Cria quase outro slime de veneno puro , e o lança contra seu alvo. [color=red]$%0 de chance de $Buff0 por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+
+    <!--Slime de Fogo-->
+    <SkillXml><!--1-->
+      <_ID>7</_ID>
+      <_nameX>Investida Flamejante</_nameX>
+      <_description>$User são mais rígidos que você pensa, ainda mais esse que é de fogo vivo.
+[color=red]$%0 de chance de ativar $Buff0 no alvo por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>8</_ID>
+      <_nameX>[b]BOLA DE FOGO![/b]</_nameX>
+      <_description>Cria uma esfera de fogo e a lança contra seus inimigos.
+[color=red]$%0 de chance de ativar $Buff0 por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>9</_ID>
+      <_nameX>Meleca de Fogo</_nameX>
+      <_description>Cria quase outro slime de fogo, e o lança contra seu inimigo. 
+[color=red]$%0 de chance de ativar $Buff0 por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+
+    <!--Slime Dark-->
+    <SkillXml><!--1-->
+      <_ID>10</_ID>
+      <_nameX>Investida das Sombras</_nameX>
+      <_description>$User são mais rígidos que você pensa.</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>11</_ID>
+      <_nameX>[b]Esfera Negra[/b]</_nameX>
+      <_description>Cria uma esfera de matéria escura e a lança contra seu alvo.</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>12</_ID>
+      <_nameX>Meleca das Trevas</_nameX>
+      <_description>Cria quase outro slime, e o lança contra seu alvo.</_description>
+    </SkillXml>
+
+    <!--Cogumelo-->
+    <SkillXml><!--1-->
+      <_ID>13</_ID>
+      <_nameX>CABEÇADA</_nameX>
+      <_description>Quem falou, que a cabeça do $User é fofinha, nunca levou uma dessa.</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>14</_ID>
+      <_nameX>[b]SOPRO TÓXICO![/b]</_nameX>
+      <_description>Lança esporos tóxicos em seu inimigo,
+[color=red]$%0% de chance de $Buff0 o alvo por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>15</_ID>
+      <_nameX>MUSHROOM EXPLOSIVO</_nameX>
+      <_description>Lança o maior número de esporos tóxicos de uma vez, até parece uma explosão,
+[color=red]$%0 de chance de $Buff0 o alvo por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+
+    <!--Dargumelo-->
+    <SkillXml><!--1-->
+      <_ID>16</_ID>
+      <_nameX></_nameX>
+      <_description></_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>17</_ID>
+      <_nameX>[b]SOPRO TREVOSO![/b]</_nameX>
+      <_description>Lança esporos tenebrosos em seu inimigo.</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>18</_ID>
+      <_nameX>MUSHROOM EXPLOSIVO</_nameX>
+      <_description>Lança o maior número de esporos tenebrosos de uma vez, até parece uma explosão.</_description>
+    </SkillXml>
+
+    <!--Diabinho-->
+    <SkillXml><!--1-->
+      <_ID>19</_ID>
+      <_nameX>LANÇAR LANÇA</_nameX>
+      <_description>Lança sua Lança bem afiada em seu alvo.
+[color=red]$%0 de chance do alvo $Buff0 por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>20</_ID>
+      <_nameX>[b]FOGO DO INFERNO![/b]</_nameX>
+      <_description>Abre rapidamente um buraco do inferno em sua volta, queimando seus inimigos.
+[color=red]$%0 de ativar $Buff0 por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>21</_ID>
+      <_nameX>MÚLTIPLAS LANÇAS</_nameX>
+      <_description>Lança $P0 vezes sua Lança bem afiada,e tem [color=blue]$P1% de chance de lançar mais[/color] [color=red]A cada ataque extra $P2 da chance,a cada ataque reduzir a $Buff0 do alvo em $Min0 por $Max0 turno(s).[/color]</_description>
+    </SkillXml>
+
+    <!--Planta Carnivora-->
+    <SkillXml><!--1-->
+      <_ID>22</_ID>
+      <_nameX>MORDIDA</_nameX>
+      <_description>Usa seus belos e venenos dentes para causar um belo estrago em seu alvo.
+[color=red]$%0 de chance de $Buff0 o alvo por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>23</_ID>
+      <_nameX>[b]DESPLANTAR[/b]</_nameX>
+      <_description>Desplanta-se do chão e anda $P0 casa(s) em direção ao seu alvo.</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>24</_ID>
+      <_nameX>GOSMA PEGAJOSA</_nameX>
+      <_description>Lança sua saliva tóxica em direção ao alvo.
+[color=red]$%0 de chance de ativar $Buff0 por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+
+    <!--Caveira-->
+    <SkillXml><!--1-->
+      <_ID>25</_ID>
+      <_nameX>BOLA DE FOGO</_nameX>
+      <_description>Lança uma bola de fogo no alvo com chance de [color=red]$%0 de ativar $Buff0 por $Dur0 turno(s)[/color].</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>26</_ID>
+      <_nameX>[b]MORDIDA![/b]</_nameX>
+      <_description>Dentes desgastados nem dão muito dano.
+[color=red]$%0 de chance do alvo $Buff0 por $Dur0 turno(s)[/color].</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>27</_ID>
+      <_nameX>PUXAR</_nameX>
+      <_description>Lança uma teia, puxa o inimigo para a casa mais próxima, com chance de [color=red]$%0 de $Buff0 por $Dur0 turno(s)[/color].</_description>
+    </SkillXml>
+
+    <!--Morcego-->
+    <SkillXml><!--1-->
+      <_ID>28</_ID>
+      <_nameX>INVESTIDA</_nameX>
+      <_description>Investe contra o alvo.</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>29</_ID>
+      <_nameX>[b]MORDIDA![/b]</_nameX>
+      <_description>Morde seu alvo e suga seu sangue.
+[color=red][b]$%1 de chance do alvo $Buff1 por $Dur1 turno(s).[/b][/color]
+[color=blue][b]$Buff0 $Dur0[/b][/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>30</_ID>
+      <_nameX>GRITO SUPER SÔNICO</_nameX>
+      <_description>Gasta toda sua garganta em um super gritao ensurdecendo o alvo.
+[color=red]$%0 de chance de $Buff0 o alvo em $Dur0 casas.[/color]</_description>
+    </SkillXml>
+
+    <!--Zunby-->
+    <SkillXml><!--1-->
+      <_ID>31</_ID>
+      <_nameX>ARRANHÃO</_nameX>
+      <_description>Usa suas Unhas sujas e desgastadas contra seu alvo.
+[color=red]$%0 de chance de $Buff0 por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>32</_ID>
+      <_nameX>[b]MORDIDA![/b]</_nameX>
+      <_description>Morde seu inimigo liberando toxinas,
+[color=red]$%0 de chance de $Buff0 por $Dur0 turno(s).[/color]
+[color=blue][b]$Buff1 $Dur0[/b][/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>33</_ID>
+      <_nameX>REFLUXO DE ÁCIDO</_nameX>
+      <_description>Cospe seus restos contra o alvo.
+[color=red]$%0 de chance de $Buff0 por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+
+    <!--Unicornio-->
+    <SkillXml><!--1-->
+      <_ID>34</_ID>
+      <_nameX>COICE</_nameX>
+      <_description>Usa suas poderosas patas contra seu alvo.
+[color=red]$%0 de chance de $Buff0 o alvo por $Dur0 casas.[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>35</_ID>
+      <_nameX>[b]TELEPORTAR AMIGO![/b]</_nameX>
+      <_description>Usa seu poderoso chifre mágico para teleportar um aliado.$P1
+[b][color=blue]Cura $Dur0 de vida[/color] do aliado teleportado[/b] e
+[color=blue]$Buff0 em $Dur0 $Ac0 por $Max0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>36</_ID>
+      <_nameX>ESFERA FELIZ</_nameX>
+      <_description>Usa seu poder mágico para lançar uma esfera poderosa contra seu alvo.
+[color=blue]$Buff0 todas as skills [b]Ativas[/b] do alvo por $Max0 turno(s).[/color]</_description>
+    </SkillXml>
+
+    <!--Ogro-->
+    <SkillXml><!--1-->
+      <_ID>37</_ID>
+      <_nameX>PEIA</_nameX>
+      <_description>Usa a milenar arte ogra de educação contra seu alvo.</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>38</_ID>
+      <_nameX>[b]GIRO PEIA![/b]</_nameX>
+      <_description>Usa a atual arte ogra de educar seus filhos contra os alvos a sua volta.</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>39</_ID>
+      <_nameX>EXTINÇÃO</_nameX>
+      <_description>Bate no chão onde o alvo esta criando uma exploção de pedras.[color=red]Dando Dano em inimigos em ate $SAR0 casas de distancia em volta do alvo[/color].</_description>
+    </SkillXml>
+
+    <!--Ogro de Fogo-->
+    <SkillXml><!--1-->
+      <_ID>40</_ID>
+      <_nameX>PEIA FLAMEJANTE</_nameX>
+      <_description>Usa a milenar arte ogra de educação com fogo contra seu alvo.
+[color=red]$%0 de chance de $Buff0 no alvo por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>41</_ID>
+      <_nameX>[b]TORNADO DE FOGO![/b]</_nameX>
+      <_description>Usa a atual arte do fogo contra os alvos a sua volta.
+[color=red]$%0 de chance de $Buff0 no alvo por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>42</_ID>
+      <_nameX>ERUPÇÃO</_nameX>
+      <_description>Bate no chão criando uma erupção no local do alvo.
+[color=red]Dando Dano em inimigos em ate $SAR0 casas de distancia em volta do alvo,e deixa solo pegando Fogo[/color].
+[color=red]$%0 de chance de $Buff0 por $Dur0 turnos.[/color]</_description>
+    </SkillXml>
+
+    <!--Macaco Rei-->
+    <SkillXml><!--1-->
+      <_ID>43</_ID>
+      <_nameX>ATAQUE EXPLOSIVO</_nameX>
+      <_description>Bate o bastão no chão na direção do alvo explodindo para os lados.</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>44</_ID>
+      <_nameX>[b]METAMORFOSE![/b]</_nameX>
+      <_description>Se transforma em qualquer aliado do mapa.
+[color=blue]$Buff0 do alvo ($Dur0)[/color].
+[color=red]Duração: $P0 turnos[/color].</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>45</_ID>
+      <_nameX>CLONAR</_nameX>
+      <_description>Cria $P5 $P0 a sua volta num raio de $P2 casas.
+[color=blue]Duração: $P1 turnos.
+Atk: $P3.
+Hp: $P4[/color]</_description>
+    </SkillXml>
+
+    <!--Macaco Rei CLONES-->
+     <SkillXml><!--1-->
+      <_ID>46</_ID>
+      <_nameX></_nameX>
+      <_description></_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>47</_ID>
+      <_nameX>Bastão Mágico</_nameX>
+      <_description>Lanca seu bastao no alvo, e pula em ate $P0 casas envolta do alvo, ao atingir o chão, inimigos em ate $SAR1 casas recebem dano.
+[color=blue]Ganha $Dur0 de $Buff0.[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>48</_ID>
+      <_nameX>Voo do macaco</_nameX>
+      <_description>Invoca sua nuvem para poder voar por $P0 casa(s).</_description>
+    </SkillXml>
+    
+    <!--Saci-->
+    <SkillXml><!--1-->
+      <_ID>49</_ID>
+      <_nameX>FUMAÇA MISTICA</_nameX>
+      <_description>Sopra a fumaça do cachimbo contra o alvo.</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>50</_ID>
+      <_nameX>[b]ESTILO SACI!![/b]</_nameX>
+      <_description>Da um voadora para frente.
+[color=red]Fazendo alvo $Buff0 $Dur0 casas.[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>51</_ID>
+      <_nameX>FURAÇÃO SACI</_nameX>
+      <_description>Faz um furação q inverte a posição de todos [b]MOB's / ITENS[/b] no mapa.
+[b]Menos a do $User[/b]</_description>
+    </SkillXml>
+
+    <!--Cavaleiro-->
+    <SkillXml><!--1-->
+      <_ID>52</_ID>
+      <_nameX>CORTAR</_nameX>
+      <_description>Usa sua espada super afiada para cortar o alvo.
+[color=red]$%0 de chance do alvo $Buff0 por $Dur0 turnos.[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>53</_ID>
+      <_nameX>[b]SALTO MORTAL![/b]</_nameX>
+      <_description>Pula no alvo ,ao atingir o chão inimigos em ate $SAR0 casas recebem dano.</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>54</_ID>
+      <_nameX>ONDA MORTAL</_nameX>
+      <_description>Joga uma onda na direção do alvo.
+[color=blue]Recua $Dur0 casas[/color],[color=red]$%0 de chance do alvo $Buff0 por $Dur0 turnos.[/color]</_description>
+    </SkillXml>
+
+    <!--Mago-->
+    <SkillXml><!--1-->
+      <_ID>55</_ID>
+      <_nameX>RAIO MAGICO</_nameX>
+      <_description>Conjura um raio mágico e o lança na direção do alvo.</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>56</_ID>
+      <_nameX>[b]ONDA DEFENSIVA![/b]</_nameX>
+      <_description>Conjura uma onda mágica que tem [color=red]$P0 de chance de [b]RECUAR[/b] todos a sua volta $P1 vezes,recebendo $P2 de dano extra, ao recuar.[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>57</_ID>
+      <_nameX>TEMPESTADE</_nameX>
+      <_description>Conjura uma chuva que persegue o alvo.$P4
+[b]Duração: $Dur0 turno(s)[/b]
+[color=red]$%0 de $Buff0 o alvo por $Dur0 turno(s) no primeiro hit.[/color]</_description>
+    </SkillXml>
+
+    <!--Arqueiro-->
+    <SkillXml><!--1-->
+      <_ID>58</_ID>
+      <_nameX>Tiro Perfeito</_nameX>
+      <_description>Atira 1 flecha na direção do alvo.
+[color=red][b]Fazendo o alvo $Buff0 $Dur0 casa(s)[/b][/color]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>59</_ID>
+      <_nameX>[b]TIRO TRIPLO![/b]</_nameX>
+      <_description>Atira $Dur0 flecha(s) no alvo,
+[color=red]$%0 de chance de $Buff0 o alvo em $Dur0 casa(s)[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>60</_ID>
+      <_nameX>CHUVA DE FLECHAS</_nameX>
+      <_description>Atira para cima e faz uma chuva de flechas.$P4
+[color=red]$P2 de chance de dar 1 hit extra ([b]máximo $P3[/b])[/color]
+[b]Duração $P0 turno(s).[/b]</_description>
+    </SkillXml>
+
+    <!--Xacon-->
+    <SkillXml><!--1-->
+      <_ID>61</_ID>
+      <_nameX>RECITAR POEMA</_nameX>
+      <_description>Recita um poema caotico para o enimigo.
+[color=red]$%0 de chance de $Buff0 todas as skills do alvo[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>62</_ID>
+      <_nameX>[b]AGRADECER![/b]</_nameX>
+      <_description>Agradece ao alvo por ser um otimo oponente.
+[color=blue]Recupera $Dur0 de Hp[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>63</_ID>
+      <_nameX>LICENÇA POETICA</_nameX>
+      <_description>Usa sua Licença poetica para comover todos a sua volta,criando um grande chuva cinematografica.$P4
+[b]Duração $P0 turno(s).[/b]</_description>
+    </SkillXml>
+
+    <!--Sereia-->
+    <SkillXml><!--1-->
+      <_ID>64</_ID>
+      <_nameX>RABADA</_nameX>
+      <_description>Bate com a calda no alvo.
+[color=red]Alvo $Buff0 $Dur0 casa(s)[/color].
+      </_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>65</_ID>
+      <_nameX>[b]CANTAR![/b]</_nameX>
+      <_description>Canta para alvo,fazendo andar em direção a Sereia.
+[color=blue]$P1% de chance de Cantar Novamente[/color][[color=red]A cada ataque extra $P2 da chance[/color]]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>66</_ID>
+      <_nameX>POROROCA</_nameX>
+      <_description>Lança uma onda com a calda.
+[color=red]$P0 de chance de [b]RECUAR[/b] o alvo $P1 vezes.
+Alvo recebe $P2 de dano extra, ao recuar ou falhar $P3 vezes no recuo[/color]</_description>
+    </SkillXml>
+
+    <!--Meduza-->
+    <SkillXml><!--1-->
+      <_ID>67</_ID>
+      <_nameX>CHUVA DE VENENO</_nameX>
+      <_description>Faz as cobras do cabelo cuspirem veneno no alvo.
+[color=red]$%0 de chance de $Buff0 o alvo por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>68</_ID>
+      <_nameX>[b]MORDIDAS MÚLTIPLAS![/b]</_nameX>
+      <_description>Faz as cobras do cabelo morderem o alvo.
+[color=red]$%0 de chance de $Buff0 o alvo por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>69</_ID>
+      <_nameX>PETRIFICAR</_nameX>
+      <_description>Faz os alvos a sua volta olharem em seus olhos
+[color=red]$%0 de Chance de $Buff0 o alvo por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+
+    <!--Gnubus-->
+    <SkillXml><!--1-->
+      <_ID>70</_ID>
+      <_nameX>DENFENDER</_nameX>
+      <_description>Alvo ganha +$Min0 de $Buff0 por $Max0 turno(s).
+$Defense</_description>
+    </SkillXml>    
+    <SkillXml><!--1 $Defense-->
+      <_ID>-70</_ID>
+      <_nameX>$Defense</_nameX>
+      <_description>[color=blue][b]{0}[/b]% de chance de {1} Ganhar [b]{2} - {3}[/b] de {4} {5},[b]Caso não seja o alvo.[/b][/color].</_description>
+    </SkillXml> 
+    <SkillXml><!--2-->
+      <_ID>71</_ID>
+      <_nameX>[b]REBATER![/b]</_nameX>
+      <_description>ReBate o alvo,
+[color=red]Fazendo $Buff0 $Dur0 casa(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>72</_ID>
+      <_nameX>O 1/2 ESPADASHIN LENDÁRIO</_nameX>
+      <_description>Corta o alvo com sua força lendária.
+[color=red]$%0 de chance do alvo $Buff0 por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+
+    <!--Zoy-->
+    <SkillXml><!--1-->
+      <_ID>73</_ID>
+      <_nameX>ENCARAR</_nameX>
+      <_description>Encara o alvo,
+[color=red]$%0 de chance de $Buff0 no alvo por $Dur0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>74</_ID>
+      <_nameX>Raio Duplo</_nameX>
+      <_description>Atira 2 raios continuos enquanto gira.</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>75</_ID>
+      <_nameX>[b]OLHAR FURIOSO[/b]</_nameX>
+      <_description>Se duplica em volta do alvo e atira um raio continuo enquanto gira.</_description>
+    </SkillXml>
+
+    <!--Viking Honor-->
+    <SkillXml><!--1-->
+      <_ID>76</_ID>
+      <_nameX>LANÇAR MACHADO</_nameX>
+      <_description>Lança um machado contra o alvo.</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>77</_ID>
+      <_nameX>[b]LANÇAR GANCHO[/b]</_nameX>
+      <_description>[b]Puxa o alvo[/b] para a casa mais próxima, [color=red]$%0 de chance de $Buff0 por $Dur0 turno(s)[/color].</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>78</_ID>
+      <_nameX>MACHADOS RUNICOS</_nameX>
+      <_description>Lança [color=blue]$Ord0º machado com $OrdBuff0, $Ord1º com $OrdBuff1 e o $Ord2º com $OrdBuff2.Todos com $Ord%0 de chance[/color]</_description>
+    </SkillXml>
+
+    <!--Cyber-->
+    <SkillXml><!--1-->
+      <_ID>79</_ID>
+      <_nameX>Jumper</_nameX>
+      <_description>Teleporta-se para algum lugar do mapa.[color=blue]Inimigos pelo caminho levaram dano[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>80</_ID>
+      <_nameX>[b]Chute Brilhante[/b]</_nameX>
+      <_description>Chuta o inimigo para longe.
+[color=red]Alvo [b]RECUA[/b] $Dur0 casas[/color],[color=red]$%1 de chance de $Buff1 alvo por $Dur1 turno(s)[/color].</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>81</_ID>
+      <_nameX>Restart</_nameX>
+      <_description>[color=blue][b]Zera o cooldown[/b] das outras skill's.
+$Buff2 do $User em $Min2 $Ac2 por $Max2 turno(s)[/color].</_description>
+    </SkillXml>
+
+    <!--Bigodon-->
+    <SkillXml><!--1-->
+      <_ID>82</_ID>
+      <_nameX>Teleport Supremo</_nameX>
+      <_description>Teleporta o alvo para o local escolhido.$P1
+Alvo Inimigo: [b][color=red]$%E0 de chance de $BuffE0 por $DurE0 turno(s).[/color][/b]
+Alvo Aliado: [b][color=blue]Cura $P0 de vida.[/color][/b]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>83</_ID>
+      <_nameX>Fogo Ardente</_nameX>
+      <_description>$User lança uma Esfera em chamas que persegue o alvo,deixando o solo em chamas.[color=red]$%0 de chance de $Buff0 alvo por $Dur0 turno(s)[/color],[color=red]$%1 de chance de $Buff1 no alvo por $Dur1 turno(s)[/color].</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>84</_ID>
+      <_nameX>Poder Das Torres</_nameX>
+      <_description>Cria $P5 $P0 a sua volta num raio de $P1 casas.[color=red]$P0 tanka qualquer skill [b]atiravel[/b] como se fosse o alvo.[/color]
+[color=blue]Duração: $P2 turnos.
+Atk: $P3.
+Hp: $P4[/color]</_description>
+    </SkillXml>
+
+    <!--Torre Bigodon-->
+    <SkillXml><!--1-->
+      <_ID>85</_ID>
+      <_nameX>BOLA DE FOGO</_nameX>
+      <_description>Lança uma bola de fogo no alvo com chance de [color=red]$%0 de ativar $Buff0 por $Dur0 turno(s)[/color].</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>86</_ID>
+      <_nameX></_nameX>
+      <_description></_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>87</_ID>
+      <_nameX></_nameX>
+      <_description></_description>
+    </SkillXml>
+
+    <!--Thanatos-->
+    <SkillXml><!--1-->
+      <_ID>88</_ID>
+      <_nameX>FOICE BUMERANGUE</_nameX>
+      <_description>$User lança sua foice contra o alvo acertando todos os inimigos no caminho, apos acertar o alvo, foice volta para o(a) $User.</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>89</_ID>
+      <_nameX>[b]ZONA MORTAL[/b]</_nameX>
+      <_description>$User joga sua foice no alvo,[color=blue]criando uma zona mortal por $Dur0 turno(s)[/color].[color=red]Alvo tem $%0 de chance de $Buff0 por $Max0 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>90</_ID>
+      <_nameX>Ultimo Suspiro</_nameX>
+      <_description>$User vai ate o alvo e lança um ataque mortal.[color=red]Alvo $Buff0 por $Dur0 turno(s)[/color].</_description>
+    </SkillXml>
+
+    <!---->
+    <SkillXml><!--Chacon Skill 2 Modo Battle-->
+      <_ID>91</_ID>
+      <_nameX>[b]Agradecer[/b]</_nameX>
+      <_description>Agradece ao alvo por ser um otimo oponente.
+[color=blue]Recupera $Dur0 de Hp[/color]
+[color=red]Silencia Passiva do inimigo por $Max1 turno(s).[/color]</_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>92</_ID>
+      <_nameX></_nameX>
+      <_description></_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>93</_ID>
+      <_nameX></_nameX>
+      <_description></_description>
+    </SkillXml>
+
+    <!---->
+    <SkillXml><!--1-->
+      <_ID>94</_ID>
+      <_nameX></_nameX>
+      <_description></_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>95</_ID>
+      <_nameX></_nameX>
+      <_description></_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>96</_ID>
+      <_nameX></_nameX>
+      <_description></_description>
+    </SkillXml>
+    
+    <!---->
+    <SkillXml><!--1-->
+      <_ID>97</_ID>
+      <_nameX></_nameX>
+      <_description></_description>
+    </SkillXml>
+    <SkillXml><!--2-->
+      <_ID>98</_ID>
+      <_nameX></_nameX>
+      <_description></_description>
+    </SkillXml>
+    <SkillXml><!--3-->
+      <_ID>99</_ID>
+      <_nameX></_nameX>
+      <_description></_description>
+    </SkillXml>
+
+
+  </Skill>
+</SkillDatabase>

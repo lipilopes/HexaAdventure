@@ -1,0 +1,1296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<String>
+  <!--0-->
+  <StringXml>
+    <_nameX>{0} Sensibility</_nameX>
+  </StringXml>
+
+  <!--1-->
+  <StringXml>
+    <_nameX>Difficulty</_nameX>
+  </StringXml>
+
+  <!--2-->
+  <StringXml>
+    <_nameX>Language</_nameX>
+  </StringXml>
+
+  <!--3-->
+  <StringXml>
+    <_nameX>_b;S O U N D_/b; Effect</_nameX>
+  </StringXml>
+
+
+  <!--4-->
+  <StringXml>
+    <_nameX>_b;S O U N D_/b; Music</_nameX>
+  </StringXml>
+
+
+  <!--5-->
+  <StringXml>
+    <_nameX>Move Camera (Arrow's)</_nameX>
+  </StringXml>
+
+  
+  <!--6-->
+  <StringXml>
+    <_nameX>Time</_nameX>
+  </StringXml>
+
+  
+  <!--7-->
+  <StringXml>
+    <_nameX>Time Record</_nameX>
+  </StringXml>
+
+
+  <!--8-->
+  <StringXml>
+    <_nameX>_color=red;_b;RESET SAVE_/b;_/color;</_nameX>
+  </StringXml>
+
+
+  <!--9-->
+  <StringXml>
+    <_nameX>_b;The game will _color=red;Restart_/color; after the process_/b;</_nameX>
+  </StringXml>
+
+
+  <!--10-->
+  <StringXml>
+    <_nameX>Delete Save</_nameX>
+  </StringXml>
+
+  <!--11-->
+  <StringXml>
+    <_nameX>Do you want to Delete your Save??</_nameX>
+  </StringXml>
+
+
+  <!--12-->
+  <StringXml>
+    <_nameX>Delete</_nameX>
+  </StringXml>
+
+  <!--13-->
+  <StringXml>
+    <_nameX>_color=red;Cancel_/color;</_nameX>
+  </StringXml>
+
+
+  <!--14-->
+  <StringXml>
+    <_nameX>_color=green;_b;EXTRAS_/b;_/color;</_nameX>
+  </StringXml>
+
+
+  <!--15-->
+<StringXml>
+  <_nameX>Achievement's</_nameX>
+</StringXml>
+
+<!--16-->
+  <StringXml>
+    <_nameX>Show Updates Notes</_nameX>
+  </StringXml>
+
+  <!--17-->
+  <StringXml>
+    <_nameX>Playing Time:</_nameX>
+  </StringXml>
+
+  <!--18-->
+  <StringXml>
+    <_nameX>Walk:</_nameX>
+  </StringXml>
+
+  <!--19-->
+  <StringXml>
+    <_nameX>Turns    [_color=blue;_b;PLAYER_/b;_/color;]:</_nameX>
+  </StringXml>
+
+
+  <!--20-->
+  <StringXml>
+    <_nameX>Damage    [_color=blue;_b;DONE_/b;_/color;]:</_nameX>
+  </StringXml>
+
+  <!--21-->
+  <StringXml>
+    <_nameX>Damage    [_color=red;_b;TAKEN_/b;_/color;]:</_nameX>
+  </StringXml>
+
+
+  <!--22-->
+  <StringXml>
+    <_nameX>Damage    [_color=blue;_b;DEFENDED_/b;_/color;]:</_nameX>
+  </StringXml>
+
+  <!--23-->
+  <StringXml>
+    <_nameX>Recovered Life:</_nameX>
+  </StringXml>
+
+  <!--24-->
+  <StringXml>
+    <_nameX>Deaths    [_color=blue;_b;DONE_/b;_/color;]:</_nameX>
+  </StringXml>
+
+  <!--25-->
+  <StringXml>
+    <_nameX>Deaths    [_color=red;_b;ENEMIES_/b;_/color;]:</_nameX>
+  </StringXml>
+
+  <!--26-->
+  <StringXml>
+    <_nameX>Dbuff {0} [_color=red;_b;DONE_/b;_/color;]:</_nameX>
+  </StringXml>
+
+  <!--27-->
+  <StringXml>
+    <_nameX>Dbuff {0} [_color=blue;_b;TAKEN_/b;_/color;]:</_nameX>
+  </StringXml>
+
+  <!--28-->
+  <StringXml>
+    <_nameX>Status {0}</_nameX>
+  </StringXml>
+
+  <!--29-->
+  <StringXml>
+    <_nameX>Resistence's {0}</_nameX>
+  </StringXml>
+
+  <!--30-->
+  <StringXml>
+    <_nameX>Hp</_nameX>
+  </StringXml>
+
+  <!--31-->
+  <StringXml>
+    <_nameX>Damage</_nameX>
+  </StringXml>
+
+  <!--32-->
+  <StringXml>
+    <_nameX>Mob's Passives</_nameX>
+  </StringXml>
+
+  <!--33-->
+  <StringXml>
+    <_nameX>Round Battle</_nameX>
+  </StringXml>
+
+  <!--34-->
+  <StringXml>
+    <_nameX></_nameX>
+  </StringXml>
+
+  <!--35-->
+  <StringXml>
+    <_nameX></_nameX>
+  </StringXml>
+
+  <!--36-->
+  <StringXml>
+    <_nameX>Total    _color=blue;Quadra Kill_/color;:</_nameX>
+  </StringXml>
+
+  <!--37-->
+  <StringXml>
+    <_nameX>Total    _color=blue;Penta Kill_/color;:</_nameX>
+  </StringXml>
+
+  <!--38-->
+  <StringXml>
+    <_nameX>Quit Game??</_nameX>
+  </StringXml>
+
+  <!--39-->
+  <StringXml>
+    <_nameX>Quit Game!!</_nameX>
+  </StringXml>
+
+  <!--40-->
+  <StringXml>
+    <_nameX>No Record</_nameX>
+  </StringXml>
+
+  <!--41-->
+  <StringXml>
+    <_nameX>Unblocked This Stage for more information...</_nameX>
+  </StringXml>
+
+  <!--42-->
+  <StringXml>
+    <_nameX>Time Over!!!</_nameX>
+  </StringXml>
+
+  <!--43-->
+  <StringXml>
+    <_nameX>No Data</_nameX>
+  </StringXml>
+
+  <!--44-->
+  <StringXml>
+    <_nameX>K̷i̷l̷l̷</_nameX>
+  </StringXml>
+
+  <!--45-->
+  <StringXml>
+    <_nameX>K͟i͟l͟l͟</_nameX>
+  </StringXml>
+  
+  <!--46-->
+  <StringXml>
+    <_nameX>P̷o̷r̷t̷a̷l̷</_nameX>
+  </StringXml>
+
+  <!--47-->
+  <StringXml>
+    <_nameX>P͟o͟r͟t͟a͟l͟</_nameX>
+  </StringXml>
+
+  <!--48-->
+  <StringXml>
+    <_nameX>You Don't Complete This Stage!!!</_nameX>
+  </StringXml>
+
+  <!--49-->
+  <StringXml>
+    <_nameX>Want to return to the menu??</_nameX>
+  </StringXml>
+
+  <!--50-->
+  <StringXml>
+    <_nameX>yes</_nameX>
+  </StringXml>
+
+  <!--51-->
+<StringXml>
+  <_nameX>Secret</_nameX>
+</StringXml>
+
+<!--52-->
+  <StringXml>
+    <_nameX>This Conquest is Secret, Unlock for more information</_nameX>
+  </StringXml>
+
+  <!--53-->
+  <StringXml>
+    <_nameX>Complete</_nameX>
+  </StringXml>
+
+  <!--54-->
+  <StringXml>
+    <_nameX>unlock bonus!!!</_nameX>
+  </StringXml>
+
+  <!--55-->
+  <StringXml>
+    <_nameX>Type: {0}</_nameX>
+  </StringXml>
+
+  <!--56-->
+  <StringXml>
+    <_nameX>[En-US]{0},nao esta qualificado para tal!!!</_nameX>
+  </StringXml>
+
+  <!--57-->
+   <StringXml>
+    <_nameX>[En-US]Trocar mob Aleatoriamente, para um qualificado??</_nameX>
+  </StringXml>
+
+  <!--58-->
+  <StringXml>
+    <_nameX>[En-US]A skin {0},nao esta qualificado para tal!!!</_nameX>
+  </StringXml>
+
+  <!--59-->
+  <StringXml>
+    <_nameX>[En-US]Não esta qualificado para tal
+Trocar Skin {0}, para a padrão??</_nameX>
+  </StringXml>
+
+  <!--60-->
+  <StringXml>
+    <_nameX>Block</_nameX>
+  </StringXml>
+
+  <!--61-->
+  <StringXml>
+    <_nameX>Ban</_nameX>
+  </StringXml>
+
+  <!--62-->
+  <StringXml>
+    <_nameX>[En-US]{0}
+Esta Banido!!!</_nameX>
+  </StringXml>
+
+  <!--63-->
+  <StringXml>
+    <_nameX>[En-US]Este Mob
+Esta Bloqueado!!!</_nameX>
+  </StringXml>
+
+  <!--64-->
+  <StringXml>
+    <_nameX>[En-US]Player trocado para:
+{0}</_nameX>
+  </StringXml>
+
+  <!--65-->
+  <StringXml>
+    <_nameX>Esta Skin
+Esta Bloqueado!!!</_nameX>
+  </StringXml>
+
+  <!--66-->
+  <StringXml>
+    <_nameX>[En-US]Skin trocada para:
+{0}</_nameX>
+  </StringXml>
+
+  <!--67-->
+  <StringXml>
+    <_nameX>PASSIVE</_nameX>
+  </StringXml>
+
+  <!--68-->
+  <StringXml>
+    <_nameX>Cooldown</_nameX>
+  </StringXml>
+
+  <!--69-->
+  <StringXml>
+    <_nameX>Real Damage</_nameX>
+  </StringXml>
+
+  <!--70-->
+  <StringXml>
+    <_nameX>Damage</_nameX>
+  </StringXml>
+
+  <!--71-->
+  <StringXml>
+    <_nameX>[En-US]Recebe qualquer skill como se fosse o alvo.</_nameX>
+  </StringXml>
+
+  <!--72-->
+  <StringXml>
+    <_nameX>[En-US]_color=yellow;Ativação Única_/color;</_nameX>
+  </StringXml>
+
+  <!--73-->
+  <StringXml>
+    <_nameX>[En-US]_color=blue;Chance Dbuff em Inimigos não Alvos_/color;</_nameX>
+  </StringXml>
+
+  <!--74-->
+  <StringXml>
+    <_nameX>[En-US]_color=blue;Chance Dbuff Apenas no Alvo_/color;</_nameX>
+  </StringXml>
+
+  <!--75-->
+  <StringXml>
+    <_nameX>Hp</_nameX>
+  </StringXml>
+
+  <!--76-->
+  <StringXml>
+    <_nameX>[En-US]Escudo</_nameX>
+  </StringXml>
+
+  <!--77-->
+  <StringXml>
+    <_nameX>[En-US]Clone</_nameX>
+  </StringXml>
+
+  <!--78-->
+  <StringXml>
+    <_nameX>[En-US]Até morrer</_nameX>
+  </StringXml>
+
+  <!--79-->
+  <StringXml>
+    <_nameX>[En-US]Ilimitado</_nameX>
+  </StringXml>
+
+  <!--80-->
+  <StringXml>
+    <_nameX>[En-US]Duração</_nameX>
+  </StringXml>
+
+  <!--81-->
+  <StringXml>
+    <_nameX>AUTO</_nameX>
+  </StringXml>
+
+  <!--82-->
+  <StringXml>
+    <_nameX>EASY</_nameX>
+  </StringXml>
+
+  <!--83-->
+  <StringXml>
+    <_nameX>MEDIUM</_nameX>
+  </StringXml>
+
+  <!--84-->
+ <StringXml>
+    <_nameX>HARD</_nameX>
+  </StringXml>
+    
+  <!--85-->
+  <StringXml>
+    <_nameX>Version:</_nameX>
+  </StringXml>
+
+  <!--86-->
+  <StringXml>
+    <_nameX>Put code here...</_nameX>
+  </StringXml>
+
+  <!--87-->
+  <StringXml>
+    <_nameX>[En-US]Opss!!!
+O mob ({0}) que esta selecionado esta banido!!!</_nameX>
+  </StringXml>
+
+  <!--88-->
+  <StringXml>
+    <_nameX>[En-US]Opss!!!
+O mob ({0}) que esta selecionado esta Bloqueado!!!</_nameX>
+  </StringXml>
+
+  <!--89-->
+  <StringXml>
+    <_nameX>[En-US]Opss!!!
+A Skin[({0})] do mob (({1})) que esta selecionado esta Blockeada!!!</_nameX>
+  </StringXml>
+
+  <!--90-->
+  <StringXml>
+    <_nameX>[En-US]Parabens!!!,
+{0}
+Foi Desbloqueado!!!</_nameX>
+  </StringXml>
+
+  <!--91-->
+  <StringXml>
+    <_nameX>[En-US]Voce pode jogar com o {0}!!!
+Va no menu Principal em Extras.</_nameX>
+  </StringXml>
+
+  <!--92-->
+  <StringXml>
+    <_nameX>[En-US]Player trocado para:\n{0} [{1}]</_nameX>
+  </StringXml>
+
+  <!--93-->
+  <StringXml>
+    <_nameX>[En-US]_color=red;{0} [_color=blue;{1}_/color;]
+Ja esta Desbloqueada!!!_/color;</_nameX>
+  </StringXml>
+
+  <!--94-->
+  <StringXml>
+    <_nameX>[En-US]Parabens!!!,
+Desbloqueou uma nova skin {0} para o(a) {1}!!!
+{2}</_nameX>
+  </StringXml>
+
+  <!--95-->
+  <StringXml>
+    <_nameX>Efeito _b;{0}_/b;,
+{1} Em cada iniciar de turno(Qualquer um),
+leva Dano: {2}.
+efeito vai durar: {3} Turno(s).</_nameX>
+  </StringXml>
+
+  <StringXml><!--96-->
+    <_nameX>Efeito _b;{0}_/b;,
+Dano: {1} para cada vez que o(a) {2} andar.
+Efeito vai durar: {3} Turno(s).</_nameX>
+  </StringXml>
+
+  <StringXml><!--97-->
+    <_nameX>Efeito Dbuff _b;{0}_/b;,
+{1} leva Dano: {2} no começo de seu turno
+Perde {3} Turno(s).</_nameX>
+  </StringXml>
+
+  <StringXml><!--98-->
+    <_nameX>Efeito Dbuff _b;{0}_/b;,
+{1} perde {2} Turno(s).</_nameX>
+  </StringXml>
+  
+  <StringXml><!--99-->
+    <_nameX>Efeito _b;{0}_/b;, {1} leva dano: {2} em todo inicio de turno(qualquer um) e ao andar
+Perde o Escudo caso tenha.
+Efeito vai durar: {3} Turno(s).</_nameX>
+  </StringXml>
+
+  <!--100-->
+  <StringXml>
+    <_nameX>[En-US]Imuni</_nameX>
+  </StringXml>
+
+  <StringXml><!--101-->
+    <_nameX>{0} esta com o Dbuff _b;{1}_/b;,
+Efeito vai durar: {2} Turno(s).</_nameX>
+  </StringXml>
+
+  <StringXml><!--102-->
+    <_nameX>Efeito _b;{0}_/b;,
+Em cada iniciar de turno(Qualquer um),
+{1} vai levar um pequeno Dano extra.</_nameX>
+  </StringXml>
+  
+  <StringXml><!--103-->
+    <_nameX>{0} esta com o Dbuff _b;{1}_/b;,
+Efeito vai durar: {2} Turno(s).</_nameX>
+  </StringXml>
+  
+  <StringXml><!--104-->
+    <_nameX>Efeito _b;{0}_/b;,
+Vai dar um pequeno dano extra cada vez que o(a) {1} andar.</_nameX>
+  </StringXml>
+  
+  <!--105-->
+  <StringXml><!---->
+    <_nameX>{0} esta com o Dbuff _b;{1}_/b;,
+Efeito vai durar: {2} Turno(s).</_nameX>
+  </StringXml>
+  
+  <StringXml><!--106-->
+    <_nameX>Efeito _b;{0}_/b;,
+{1} leva um dano extra no começo de seu turno Perde o Turno.</_nameX>
+  </StringXml>
+   
+  <StringXml><!--107-->
+    <_nameX>{0} esta com o Dbuff _b;{1}_/b;,
+Efeito vai durar: {2} Turno(s).</_nameX>
+  </StringXml>
+  
+  <StringXml><!--108-->
+    <_nameX>Efeito _b;{0}_/b;
+{1} perde {2} Turno(s).</_nameX>
+  </StringXml>
+  
+  <StringXml><!--109-->
+    <_nameX>{0} esta com o Dbuff _b;{1}_/b;,
+Efeito vai durar: {2} Turno(s).</_nameX>
+  </StringXml>
+  
+  
+  <!--110-->
+  <StringXml>
+    <_nameX>Efeito _b;{0}_/b;,
+{1} leva um pequeno dano extra em todo inicio de turno(qualquer um)
+{2} leva um pequeno dano extra ao andar
+Perde o Escudo caso tenha.</_nameX>
+  </StringXml>
+  
+  <StringXml><!--111-->
+    <_nameX>Basic</_nameX>
+  </StringXml>
+   
+  <StringXml><!--112-->
+    <_nameX>Normal</_nameX>
+  </StringXml>
+  
+  <StringXml><!--113-->
+    <_nameX>Rare</_nameX>
+  </StringXml>
+  
+  <StringXml><!--114-->
+    <_nameX>Legendary</_nameX>
+  </StringXml>
+  
+  
+  <!--115-->
+  <StringXml>
+    <_nameX>Limited</_nameX>
+  </StringXml>
+  
+  <StringXml><!--116-->
+    <_nameX>ERRO, {0} Not Found</_nameX>
+  </StringXml>
+   
+  <StringXml><!--117-->
+    <_nameX>Effect</_nameX>
+  </StringXml>
+  
+  <StringXml><!--118-->
+    <_nameX>Skill</_nameX>
+  </StringXml>
+  
+  <StringXml><!--119-->
+    <_nameX>Name Skill</_nameX>
+  </StringXml>
+  
+  
+  <!--120-->
+  <StringXml>
+    <_nameX>Model</_nameX>
+  </StringXml>
+  
+  <StringXml><!--121-->
+    <_nameX>Weapon</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--122-->
+    <_nameX>Fire</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--123-->
+    <_nameX>Poison</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--124-->
+    <_nameX>Petrify</_nameX>
+  </StringXml>
+
+  <!--125-->
+  <StringXml>
+    <_nameX>Stun</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--126-->
+    <_nameX>Bleed</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--127-->
+    <_nameX>[En-US]Recuar</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--128-->
+    <_nameX>[En-US]Chamar</_nameX>
+  </StringXml>
+
+  <StringXml><!--129-->
+    <_nameX>[En-US]Cooldown</_nameX>
+  </StringXml>
+  
+  <!--130-->
+  <StringXml>
+    <_nameX>[En-US]Recupera Hp</_nameX>
+  </StringXml>
+ 
+  <StringXml><!--131-->
+    <_nameX>[En-US]Shield</_nameX>
+  </StringXml>
+
+  <StringXml><!--132-->
+    <_nameX>[En-US]Acabou</_nameX>
+  </StringXml>
+
+  <StringXml><!--133-->
+    <_nameX>A Skill {0} está {1} por {2}</_nameX>
+  </StringXml>
+  
+   <StringXml><!--134-->
+    <_nameX>[En-US]Alvo</_nameX>
+  </StringXml>
+  
+  <!--135-->
+  <StringXml>
+    <_nameX>[En-US]Alvo Único</_nameX>
+  </StringXml>
+  
+   <StringXml><!--136-->
+    <_nameX>[En-US]Último</_nameX>
+  </StringXml>
+  
+   <StringXml><!--137-->
+    <_nameX>[En-US]Selecione um dos Mob's _color=yellow;Mirados_/color; para ataca-los!!!</_nameX>
+  </StringXml>
+  
+   <StringXml><!--138-->
+    <_nameX>[En-US]Esse</_nameX>
+  </StringXml>
+  
+   <StringXml><!--139-->
+    <_nameX>[En-US]_b;Duração: {0} turno(s)_/b;</_nameX>
+  </StringXml>
+
+  <!--140-->
+  <StringXml>
+    <_nameX>[En-US]Acaba em {0} Turnos</_nameX>
+  </StringXml>
+  
+   <StringXml><!--141-->
+    <_nameX>[En-US]Apos Morrer Efeito Acaba</_nameX>
+  </StringXml>
+  
+   <StringXml><!--142-->
+    <_nameX>[En-US]_color=red;_b;{0}_/b;_/color; da _b;{1}_/b; do dano em inimigos que andam sobe a skill.</_nameX>
+  </StringXml>
+  
+   <StringXml><!--143-->
+    <_nameX>[En-US]Pode controlar o(a) $P0 em seu turno</_nameX>
+  </StringXml>
+  
+   <StringXml><!--144-->
+    <_nameX>[En-US]Pode trocar de lugar com o $P0, Assim que criado.</_nameX>
+  </StringXml>
+
+  <!--145-->
+  <StringXml>
+    <_nameX>[En-US]Não ha Casas proximas o sufuciente!!!</_nameX>
+  </StringXml>
+  
+  <StringXml><!--146-->
+    <_nameX>[En-US]Selecione outra casa Verde para Criar outro(a).\n_color=green;{0}_/color;/</_nameX>
+  </StringXml>
+  
+   <StringXml><!--147-->
+    <_nameX>[En-US]Trocou</_nameX>
+  </StringXml>
+  
+   <StringXml><!--148-->
+    <_nameX>[En-US]Não ha Casas proximas o sufuciente!!!</_nameX>
+  </StringXml>
+  
+   <StringXml><!--149-->
+    <_nameX>[En-US]{0}, Selecione uma das casas Verdes!!!</_nameX>
+  </StringXml>
+  
+  <!--150-->
+   <StringXml>
+    <_nameX>[En-US]Selecione uma das casas Verde para poder pular até ela!!!</_nameX>
+  </StringXml>
+  
+  <StringXml><!--151-->
+    <_nameX>[En-US]Se cura Caso seja o alvo.</_nameX>
+  </StringXml>
+  
+   <StringXml><!--152-->
+    <_nameX>[En-US]NÃO se cura Caso seja o alvo.</_nameX>
+  </StringXml>
+  
+   <StringXml><!--153-->
+    <_nameX>[En-US]Selecione alguma casa Verde para poder teleportar o(a) {0}!!!</_nameX>
+  </StringXml>
+  
+   <StringXml><!--154-->
+    <_nameX>[En-US]Selecione alguma casa verde para andar
+_color=green;{0}_/color;/{1}</_nameX>
+  </StringXml>
+  
+  <!--155-->
+  <StringXml>
+    <_nameX>[En-US]_color=blue;Pode Atacar alvo em até _b;{0}_/b; de distância._/color;_color=red;Apos atacar efeito acaba._/color;</_nameX>
+  </StringXml>
+  
+  <StringXml><!--156-->
+    <_nameX>[En-US]Atacar Inimigo</_nameX>
+  </StringXml>
+  
+   <StringXml><!--157-->
+    <_nameX>[En-US]Pode atacar Inimigo</_nameX>
+  </StringXml>
+  
+   <StringXml><!--158-->
+    <_nameX>[En-US]Puxa Item</_nameX>
+  </StringXml>
+  
+   <StringXml><!--159-->
+    <_nameX>[En-US]Selecione uma das casas Verdes para puxar, o(a) _b;{0}_/b; para ela!!!</_nameX>
+  </StringXml>
+  
+   <!--160-->
+   <StringXml>
+    <_nameX>[En-US]{0} Consegue Pegar usando seu/sua  Skill {1}</_nameX>
+  </StringXml>
+  
+  <StringXml><!--161-->
+    <_nameX>Critical Chance</_nameX>
+  </StringXml>
+  
+   <StringXml><!--162-->
+    <_nameX>[En-US]Resistencia a Dano [_color=green;_b;DBUFF_/b;_/color;]</_nameX>
+  </StringXml>
+  
+   <StringXml><!--163-->
+    <_nameX>[En-US]Dano[Não Alvos]</_nameX>
+  </StringXml>
+  
+   <StringXml><!--164-->
+    <_nameX>[En-US]Chance Dbuff em Inimigos não Alvos</_nameX>
+  </StringXml>
+  
+  <!--165-->
+  <StringXml>
+    <_nameX>[En-US]Sem Cooldown</_nameX>
+  </StringXml>
+  
+  <StringXml><!--166-->
+    <_nameX>[En-US]{0} hit's de D%</_nameX>
+  </StringXml>
+  
+   <StringXml><!--167-->
+    <_nameX>[En-US]_b;Parabéns_/b;
+Você foi o ultimo Sobrevivente.</_nameX>
+  </StringXml>
+  
+   <StringXml><!--168-->
+    <_nameX>[En-US]Apenas o verdadeiro Player pode ativar o portal</_nameX>
+  </StringXml>
+  
+   <StringXml><!--169-->
+    <_nameX>[En-US]_b;PARABÉNS_/b;
+Você concluiu essa fase após entrar no portal.</_nameX>
+  </StringXml>
+  
+  <!--170-->
+   <StringXml>
+    <_nameX>[En-US]Nova Fase Desbloqueada
+_b;{0}_/b;</_nameX>
+  </StringXml>
+  
+  <StringXml><!--171-->
+    <_nameX>[En-US]Espere seu turno para poder Atacar.</_nameX>
+  </StringXml>
+  
+   <StringXml><!--172-->
+    <_nameX>[En-US]Sem alvo</_nameX>
+  </StringXml>
+  
+   <StringXml><!--173-->
+    <_nameX>[En-US]Aperte _b;'C'_/b; para trocar o estilo da Camera e a
+Movimente usando o mouse.</_nameX>
+  </StringXml>
+  
+   <StringXml><!--174-->
+    <_nameX>[En-US]Aperte _b;'C'_/b; para trocar o estilo da Camera e a
+Movimente usando as setas.</_nameX>
+  </StringXml>
+  
+  <!--175-->
+  <StringXml>
+    <_nameX>[En-US]De Zoom na _b;CAMERA_/b; fazendo movimento de Pinça.</_nameX>
+  </StringXml>
+  
+  <StringXml><!--176-->
+    <_nameX>[En-US]Movimente a _b;CAMERA_/b; usando o mouse.</_nameX>
+  </StringXml>
+  
+   <StringXml><!--177-->
+    <_nameX>[En-US]Movimente a _b;CAMERA_/b; usando as setas</_nameX>
+  </StringXml>
+  
+   <StringXml><!--178-->
+    <_nameX>[En-US]Selecione as casas azuis para andar</_nameX>
+  </StringXml>
+  
+   <StringXml><!--179-->
+    <_nameX>[En-US]Espere seu turno para poder andar.</_nameX>
+  </StringXml>
+  
+  <!--180-->
+   <StringXml>
+    <_nameX>[En-US]Você Não pode andar.</_nameX>
+  </StringXml>
+  
+  <StringXml><!--181-->
+    <_nameX>[En-US]Efeito _b;Defesa_/b;,
+_b;{1}_/b; tem _color=blue;_b;{2}_/b;_/color; de vida extra.</_nameX>
+  </StringXml>
+  
+   <StringXml><!--182-->
+    <_nameX>[En-US]Espere {0} turno(s)!</_nameX>
+  </StringXml>
+  
+   <StringXml><!--183-->
+    <_nameX>[En-US]Selecione Algum Alvo</_nameX>
+  </StringXml>
+  
+   <StringXml><!--184-->
+    <_nameX>[En-US]Sem Alvo</_nameX>
+  </StringXml>
+  
+  <!--185-->
+  <StringXml>
+    <_nameX>[En-US]Usar _b;{0}_/b; no(a) {1}</_nameX>
+  </StringXml>
+  
+  <StringXml><!--186-->
+    <_nameX>[En-US]Carregando</_nameX>
+  </StringXml>
+  
+   <StringXml><!--187-->
+    <_nameX>[En-US]Item _b;Rec Hp_/b;,
+tem _b;{0}%_/b; de chance de aparecer
+quando seu Hp estiver inferior a _b;{1}_/b; 
+Total de _b;{2}_/b; Podendo ter no maximo _b;{3}_/b; no mapa.</_nameX>
+  </StringXml>
+  
+   <StringXml><!--188-->
+    <_nameX>[En-US]Item _b;Rec Hp_/b;,
+tem _b;{0}% _/b; de chance de aparecer
+quando seu Hp estiver inferior a _b;{1}_/b;
+Total de _b;{2}_/b; Podendo ter no maximo _b;{3}_/b; no mapa.
+Recupera: {4}
+Restam: _b;{5}_/b;.</_nameX>
+  </StringXml>
+  
+   <StringXml><!--189-->
+    <_nameX>[En-US]Item _b;Rec Hp_/b; Apareceu.
+Restam</_nameX>
+  </StringXml>
+  
+  <!--190-->
+   <StringXml>
+    <_nameX>[En-US]Stunado</_nameX>
+  </StringXml>
+  
+  <StringXml><!--191-->
+    <_nameX>[En-US]Petrificado</_nameX>
+  </StringXml>
+  
+   <StringXml><!--192-->
+    <_nameX>Damage Bonus</_nameX>
+  </StringXml>
+  
+   <StringXml><!--193-->
+    <_nameX>Acumulativo</_nameX>
+  </StringXml>
+  
+   <StringXml><!--194-->
+    <_nameX>Não Acumulativo</_nameX>
+  </StringXml>
+  
+  <!--195-->
+  <StringXml>
+    <_nameX>Silencia</_nameX>
+  </StringXml>
+  
+  <StringXml><!--196-->
+    <_nameX>[En-US]Silenciada</_nameX>
+  </StringXml>
+  
+   <StringXml><!--197-->
+    <_nameX>[En-US]Dbuff de Dano</_nameX>
+  </StringXml>
+  
+   <StringXml><!--198-->
+    <_nameX>Fail</_nameX>
+  </StringXml>
+  
+  <StringXml><!--199-->
+    <_nameX>Chance Fail Skill: {0}%</_nameX>
+  </StringXml>
+  
+  <!--200-->
+   <StringXml>
+    <_nameX>Imuni a _color=magenta;Critical Damage_/color;</_nameX>
+  </StringXml>
+  
+  <StringXml><!--201-->
+    <_nameX>History</_nameX>
+  </StringXml>
+  
+   <StringXml><!--202-->
+    <_nameX>Battle</_nameX>
+  </StringXml>
+  
+   <StringXml><!--203-->
+    <_nameX>Battle Mode</_nameX>
+  </StringXml>
+  
+   <StringXml><!--204-->
+    <_nameX>Game Mode</_nameX>
+  </StringXml>
+  
+  <!--205-->
+  <StringXml>
+    <_nameX>Mob's Selection</_nameX>
+  </StringXml>
+  
+  <StringXml><!--206-->
+    <_nameX>Player</_nameX>
+  </StringXml>
+  
+   <StringXml><!--207-->
+    <_nameX>Computer</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--208-->
+    <_nameX>[En-US]É necessario ter no minimo _b;{0}_/b; Mob's desbloqueados para entrar nesse modo!!!
+Você Tem _b;{1}_/b;.</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--209-->
+    <_nameX>[En-US]Agora é a vez do {0}!!!</_nameX>
+  </StringXml>
+
+  <!--210-->
+  <StringXml>
+    <_nameX>[En-US]Selecionando Mob's Aleatoriamente</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--211-->
+    <_nameX>[En-US]Libere {0} Mob's, para aumentar o time!!!</_nameX>
+  </StringXml>
+
+  <StringXml><!--212-->
+    <_nameX>Unique Selection</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--213-->
+    <_nameX>30 a 34 Vazias</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--214-->
+    <_nameX>Skill</_nameX>
+  </StringXml>
+
+
+  <StringXml>
+    <!--215-->
+    <!--DbuffName(Casa X - X)-->
+    <_nameX>Casa(s): {0}</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--216-->
+    <!--DbuffName(Casa X - X)-->
+    <_nameX>Casa(s): {0}</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--217-->
+    <!--DbuffName(Skill(214)-Passiva(67) (s): X,Tempo: X)-->
+    <_nameX>{0}(s): {1},Duração: {2}.</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--218-->
+    <_nameX>Menor Cooldown</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--219-->
+    <!--Skill ou Passivas-->
+    <_nameX>{0}(s) Ativa(s)</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--220-->
+    <_nameX>Todas as {0}(s)</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--221-->
+    <_nameX>Armadura</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--222-->
+    <_nameX>Permanente</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--223-->
+    <_nameX>Acumulável até x{0}</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--224-->
+    <_nameX>lançar habilidade</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--225-->
+    <_nameX>fim da habilidade</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--226-->
+    <_nameX>inicio da habilidade</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--227-->
+    <_nameX>atingir habilidade</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--228-->
+    <_nameX>recuperar HP</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--229-->
+    <_nameX>ganhar {0}</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--230-->
+    <_nameX>levar dano</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--231-->
+    <_nameX>levar dano crítico</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--232-->
+    <_nameX>defender dano</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--233-->
+    <_nameX>matar inimigo</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--234-->
+    <_nameX>Dar dano</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--235-->
+    <_nameX>morrer</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--236-->
+    <_nameX>final(is) de turno(s)</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--237-->
+    <_nameX>recebeu dano</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--238-->
+    <_nameX>dano em área</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--239-->
+    <_nameX>acertar alvo da habilidade</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--240-->
+    <_nameX>dar dano real</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--241-->
+    <_nameX>andar</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--242-->
+    <_nameX>chamado ou empurrado</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--243-->
+    <_nameX>antes de levar dano</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--244-->
+    <_nameX>nascer</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--245-->
+    <_nameX>acertar dano critico</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--246-->
+    <_nameX>desviar do ataque</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--247-->
+    <_nameX>inimigo desviar do ataque</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--248-->
+    <_nameX>não desviar do ataque</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--249-->
+    <_nameX>Levar dano do inimigo</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--250-->
+    <_nameX>Esquiva</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--251-->
+    <!--50% de chance de Ganhar 2 - 3 de Escudo-->
+    <_nameX>_b;{0}_/b;% de chance de Ganhar _b;{1} - {2}_/b; de _b;{3}_/b;</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--252-->
+    <!--50% de chance de Ganhar 3 de Escudo-->
+    <_nameX>_b;{0}_/b;% de chance de Ganhar _b]{1}_/b; de {2} Por _b;{3}_/b; Turno(s)</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--253-->
+    <_nameX>_b;Por {0} Turno(s)_/b;</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--254-->
+    <_nameX>_b;Acumula por x{0} vez(es)_/b;</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--255-->
+    <_nameX></_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--256-->
+    <_nameX></_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--257-->
+    <_nameX></_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--258-->
+    <_nameX></_nameX>
+  </StringXml>
+
+  <StringXml>
+    <!--259-->
+    <_nameX></_nameX>
+  </StringXml>
+</String>
+</StringDatabase>

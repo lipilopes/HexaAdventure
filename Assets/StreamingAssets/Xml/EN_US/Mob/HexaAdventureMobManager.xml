@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MobManagerDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Mob>
+    <!--Easy Mob-->
+    <!--Mob0-->
+    <MobXml>
+      <_nameX>Zé</_nameX>
+      <_class>Grup Damage/Controle</_class>
+      <_description>$User pode ser lento porém fatal.</_description>
+    <_skinsName>
+        <_skinName>Gamer</_skinName>
+        <_skinName>Viking</_skinName>
+    </_skinsName>
+    </MobXml>
+
+    <!--Mob1-->
+    <MobXml>
+      <_ID>1</_ID>
+      <_nameX>Slime</_nameX>
+      <_class>Damage/Poison</_class>
+      <_description>$User</_description>
+    <_skinsName>
+        <_skinName>Geleia de Limão</_skinName>
+    </_skinsName>
+    </MobXml>
+
+    <!--Mob2-->
+    <MobXml>
+      <_ID>2</_ID>
+      <_nameX>Slime [ {color=red}{b}Fire{/b}{/color} ]</_nameX>
+      <_class>Damage/Fire</_class>
+      <_description>$User</_description>      
+    <_skinsName>
+        <_skinName>Geleia de Morango</_skinName>
+    </_skinsName>
+  </MobXml>
+
+    <!--Mob3-->
+    <MobXml>
+      <_nameX>Slime [ {color=black}{b}Dark{/b}{/color} ]</_nameX>
+      <_class>Damage/Extra Damage</_class>
+      <_description>$User</_description>
+    <_skinsName>
+        <_skinName>Geleia de Uva</_skinName>
+    </_skinsName>
+    </MobXml>
+
+    <!--Mob4-->
+    <MobXml>
+      <_nameX>Mushroom</_nameX>
+      <_class>Damage/Poison</_class>
+      <_description>$User</_description>
+    <_skinsName>
+        <_skinName>Super Mushroom</_skinName>
+    </_skinsName>
+    </MobXml>
+
+    <!--Mob5-->
+    <MobXml>
+      <_nameX>MushDoom</_nameX>
+      <_class>Damage/Extra Damage</_class>
+      <_description>$User</_description>
+      <_skinsName>  
+        <_skinName>MidNight Mushroom</_skinName> 
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob6-->
+    <MobXml>
+      <_nameX>Imp Hellion</_nameX>
+      <_class>Damage/Bigfull Luck</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Forma Inferior</_skinName>
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob7-->
+    <MobXml>
+      <_nameX>Carnivorous Plant</_nameX>
+      <_class>Estatic/Durable</_class>
+      <_description>$User</_description>
+    <_skinsName> 
+      <_skinName>Dionea Musipula Alteriorem</_skinName> 
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob8-->
+    <MobXml>
+      <_nameX>Skull</_nameX>
+      <_class>Estatic/Durable</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Cranicolo</_skinName> 
+    </_skinsName>
+  </MobXml>
+
+    <!--Medium Mob-->
+    <!--Mob9-->
+    <MobXml>
+      <_nameX>Bat</_nameX>
+      <_class>Damage/Roubo de Vida</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Morcego</_skinName> 
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob10-->
+    <MobXml>
+      <_nameX>Zunby</_nameX>
+      <_class>Damage/summoner</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Zunby</_skinName>
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob11-->
+    <MobXml>
+      <_nameX>Unicorn</_nameX>
+      <_class>Cure/Teleport</_class>
+      <_description>$User</_description>
+    <_skinsName> 
+      <_skinName>Happy</_skinName>
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob12-->
+    <MobXml>
+      <_nameX>Ogre</_nameX>
+      <_class>Area Damage</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Ogro</_skinName>
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob13-->
+    <MobXml>
+      <_nameX>Ogre [ {color=red}{b}Fire{/b}{/color} ]</_nameX>
+      <_class>Dano em Área/Fogo</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Ogro</_skinName> 
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob14-->
+    <MobXml>
+      <_nameX>Sun Wukong</_nameX>
+      <_class>Divindade/Invocador</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Sun Wukong</_skinName> 
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob15-->
+    <MobXml>
+      <_nameX>Saci</_nameX>
+      <_class>Dano/Bagunça</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Saci</_skinName> 
+    </_skinsName>
+  </MobXml>
+
+    <!--Hard Mobs-->
+    <!--Mob16-->
+    <MobXml>
+      <_nameX>Knight</_nameX>
+      <_class>Corredor/Durável</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Aprendiz</_skinName> 
+    </_skinsName>
+  </MobXml>
+
+    <!--Mob17-->
+    <MobXml>
+      <_nameX>Mage</_nameX>
+      <_class>Dano/Caçador/Empurrador</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Mage</_skinName> 
+    </_skinsName>
+  </MobXml>
+
+    <!--Mob18-->
+    <MobXml>
+      <_nameX>Archer</_nameX>
+      <_class>Dano/Dano em Área</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Robin Hood</_skinName> 
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob19-->
+    <MobXml>
+      <_nameX>Xacon</_nameX>
+      <_class>Auto-Cura/Dano em Área</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Poeta Maligno</_skinName> 
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob20-->
+    <MobXml>
+      <_nameX>Mermaid</_nameX>
+      <_class>Sedutora/Empurradora</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Iara</_skinName> 
+    </_skinsName>
+  </MobXml>
+
+    <!--Mob21-->
+    <MobXml>
+      <_nameX>Meduza</_nameX>
+      <_class>Dano/Dano em Área/Desativadora</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Meduza</_skinName> 
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob22-->
+    <MobXml>
+      <_nameX>Gnobus</_nameX>
+      <_class>Auto-Defesa/Defesa para o Time</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Of Garden</_skinName> 
+    </_skinsName>
+  </MobXml>
+
+    <!--Mob23-->
+    <MobXml>
+      <_nameX>DoublEye's</_nameX>
+      <_class>Chefão/Dano Maciço</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Boss I</_skinName>
+    </_skinsName>
+  </MobXml>
+
+    <!--Mob24-->
+    <MobXml>
+      <_nameX>Viking Honor</_nameX>
+      <_class>Chefão/Dano Maciço/Desativador</_class>
+      <_description>$User</_description>
+    <_skinsName>  
+      <_skinName>Boss II</_skinName> 
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob25-->
+    <MobXml>
+      <_nameX>{color=red}Cyber{/color}</_nameX>
+      <_class>Fugitivo/Empurrador/Static</_class>
+      <_description>$User</_description>
+    <_skinsName>
+      <_skinName>Mad Chiby</_skinName>
+      <_skinName>Super Cyber</_skinName>
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob26-->
+    <MobXml>
+      <_nameX>{color=purple}Bigodon{/color}</_nameX>
+      <_class>Dano/Teleporte/Invocador/Fogo</_class>
+      <_description>$User</_description>
+    <_skinsName>
+      <_skinName>Mage Supreme</_skinName>
+  </_skinsName>
+  </MobXml>
+
+    <!--Mob27-->
+<MobXml>
+  <_nameX>Thanatos</_nameX>
+  <_class>Divindade/Assassino/Invocador</_class>
+  <_description>$User</_description>
+  <_skinsName>
+    <_skinName>Son Of Night</_skinName>
+  </_skinsName>
+</MobXml>
+
+  <!--Mob28
+    <MobXml>
+      <_nameX></_nameX>
+      <_class></_class>
+      <_description>$User</_description>
+    <_skinsName>  <_skinName></_skinName> </_skinsName></MobXml>-->
+  </Mob>
+</MobManagerDatabase>

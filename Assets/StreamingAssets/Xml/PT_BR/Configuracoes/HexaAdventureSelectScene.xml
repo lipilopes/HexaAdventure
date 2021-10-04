@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<String>
+
+  <!--0-->
+  <StringXml>
+    <_nameX>Sempre fique de olho no alcance das skills dos inimigos</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <_nameX>Sempre estude as habilidades de cada inimigo</_nameX>
+  </StringXml>
+
+<StringXml>
+    <_nameX>Fique atento com os efeitos dos Dbuff's</_nameX>
+  </StringXml>
+
+  <StringXml>
+    <_nameX>O M o b [color=red]Cyber[/color] veio de outro jogo!!!</_nameX>
+  </StringXml>
+
+  <!--5-->
+  <StringXml>
+    <_nameX>Algumas conquistas dão bonus maneiros!!!</_nameX>
+  </StringXml>
+
+</String>
+</StringDatabase>
